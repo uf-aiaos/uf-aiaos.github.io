@@ -1,0 +1,17 @@
+- name: Student 1
+  photo: Student1.png
+  info: Animal Science PhD
+  email: student1@uf.edu
+  number_educ: 0
+  education1:
+  education2: 
+  education3: 
+  education4: 
+  education5:
+  website: 0
+  scholar: 0
+  orcid: 0
+  publons: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
