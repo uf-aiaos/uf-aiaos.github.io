@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-We are the Animal Artificial Intelligence (AAI) lab in [Department of Animal Sciences](https://animal.ifas.ufl.edu/) at the [University of Florida](https://www.ufl.edu/). Our primary research interest focuses on integrating high-dimensional heterogeneous -omics data to advance animal agriculture. One of our research topics is accommodating multi-omics data using machine learning, statistical modeling, and computational methods for genetic improvement in animals. Intrigued by precision livestock farming, we are also interested in applying computer vision to acquire and incorporate high-throughput animal phenomics data into our research. 
+We are the Animal Artificial Intelligence (AAI) lab in [Department of Animal Sciences](https://animal.ifas.ufl.edu/){:target="_blank"} at the [University of Florida](https://www.ufl.edu/){:target="_blank"}. Our primary research interest focuses on integrating high-dimensional heterogeneous -omics data to advance animal agriculture. One of our research topics is accommodating multi-omics data using machine learning, statistical modeling, and computational methods for genetic improvement in animals. Intrigued by precision livestock farming, we are also interested in applying computer vision to acquire and incorporate high-throughput animal phenomics data into our research. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
@@ -27,11 +27,6 @@ We are the Animal Artificial Intelligence (AAI) lab in [Department of Animal Sci
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-ans.jpeg" alt="Slide 2" />
         </div>
-        <!-- 
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/" alt="Slide 3" />
-        </div>
-        -->
     </div>
     
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
