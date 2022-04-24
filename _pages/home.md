@@ -16,8 +16,6 @@ We are the Animal Artificial Intelligence (AAI) lab in [Department of Animal Sci
         <li data-target="#carousel" data-slide-to="1"></li>
         <!-- <li data-target="#carousel" data-slide-to="2"></li> -->
     </ol>
-
-    <!-- Items (and how to comment) -->
     
     <div class="carousel-inner" markdown="0">
 

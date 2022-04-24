@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-### **1. Integration of -omics data for genetic improvement using machine learning and statistical modeling**
+#### **1. Integration of -omics data for genetic improvement using machine learning and statistical modeling**
 
 - **Yu, H,** van Milgen, J, Knol, E. F, Fernando, R. L, and Dekkers, J. C. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands.
 
@@ -20,11 +20,11 @@ permalink: /research/
 
 - **Yu H**, Campbell MT, Zhang Q, Walia H, and Morota G. (2019). [Genomic Bayesian confirmatory factor analysis and Bayesian network to characterize a wide spectrum of rice phenotypes.](https://doi.org/10.1534/g3.119.400154){:target="_blank"} _G3: Genes, Genomes, Genetics._ 9:1975-1986. doi: 10.1534/g3.119.400154
 
-### **2. Computer vision-based high-throughput phenomics platform**
+#### **2. Computer vision-based high-throughput phenomics platform**
 
 - **Yu H**, Lee K, and Morota G. (2021). [Forecasting dynamic body weight of non-restrained pigs from images using an RGB-D sensor camera.](https://academic.oup.com/tas/advance-article/doi/10.1093/tas/txab006/6102880){:target="_blank"} _Translational Animal Science_. 5:1-9. doi: 10.1093/tas/txab006
 
-### **3. Software development**
+#### **3. Software development**
 
 - Dekkers JCM, Su L, Kramer L, and **Yu H.** (2022). A tool for the design of breeding programs using genomics. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands.
 
