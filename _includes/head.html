@@ -11,9 +11,14 @@
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <!--
   <script src="https://kit.fontawesome.com/4c6447c1cb.js" crossorigin="anonymous"></script>
-	  -->
+	 
 	  
 {% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+ -->
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
 {% include analytics.html %}
 {% endif %}
 

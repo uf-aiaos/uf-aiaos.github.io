@@ -29,7 +29,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+# 
+# Google Analytics
+google_analytics: G-XWTGDL7VN4
 
 # Markdown Processing
 kramdown:
