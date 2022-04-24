@@ -10,13 +10,13 @@ permalink: /openings/
 <center><img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-tower-2.jpeg" width="80%" height="80%"></center>
 </figure>
 
-**We are always looking for new team members with passion and interest in research!**
+<center><b>We are always looking for new team members with passion and interest in research!</b></center>
 
 ### How to apply
 Interested candidates may email Dr. Haipeng Yu (email address) with the subject line **"Application to AAI Lab"** and attach the following materials: 
-1. Curriculum vitae
-2. A copy of transcripts
-3. A brief statement of research interest and experience
+1. _Curriculum vitae_
+2. _A copy of transcripts_
+3. _A brief statement of research interest and experiences_
  
 Candidates with skills/experiences in statistical modeling, machine learning, computer vision, and computer programming (C/C++, Java, Julia, Python, or R) are encouraged to apply.
 
