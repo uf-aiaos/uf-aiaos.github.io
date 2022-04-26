@@ -19,7 +19,10 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br>email: <{{ member.email }}><br>CV: <{{ member.CV }}></i>
+  <i>{{ member.info }} <br>
+	  email: <{{ member.email }}><br>
+	  CV: <a href="{{ member.CV }}" target="_blank">yu_cv.pdf</a> </i>
+	  
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
