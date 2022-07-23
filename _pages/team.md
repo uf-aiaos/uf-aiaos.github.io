@@ -78,6 +78,9 @@ permalink: /team/
 {% endif %}
 <br>
 
+## Lab members
+
+- <span style="color:blue"> **We are looking for PhD students and Postdocs to join our team in Spring/Fall 2023. See details in the <a href="../openings">Openings</a> section.** </span>
 
 <!--
 ## Graduate Students

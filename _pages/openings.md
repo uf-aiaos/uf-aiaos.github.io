@@ -22,7 +22,7 @@ Candidates with skills/experiences in statistical modeling, machine learning, co
 
 ### Current open positions
 
-You can find the current job openings here:
+
 <center><img src="{{ site.url }}{{ site.baseurl }}/images/logo/Openings_AAI-Lab.jpeg" width="60%" height="60%"></center>
 
 <!--[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf) -->
