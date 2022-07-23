@@ -7,13 +7,13 @@ permalink: /openings/
 ---
 
 <figure>
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-tower-2.jpeg" width="80%" height="80%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-tower-2.jpeg" width="80%" height="30%"></center>
 </figure>
 
-<center><b>We are always looking for new team members with passion and interest in research!</b></center>
+<center><b><font size="6">We are looking for Ph.D. students and Postdocs to join our team in Spring/Fall 2023!</font></b></center>
 
 ### How to apply
-Interested candidates may email Dr. Haipeng Yu (email address) with the subject line **"Application to AAI Lab"** and attach the following materials: 
+Interested candidates may email Dr. Haipeng Yu (<haipengyu@ufl.edu>) with the subject line **"PhD/Postdoc Application"** and attach the following materials: 
 1. _Curriculum vitae_
 2. _A copy of transcripts_
 3. _A brief statement of research interest and experiences_

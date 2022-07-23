@@ -79,7 +79,7 @@ permalink: /team/
 <br>
 
 
-
+<!--
 ## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.grad %} 
@@ -157,7 +157,7 @@ permalink: /team/
 
 
 
-<!--
+
 
 ## Affiliated PhD Mentees
 {% assign number_printed = 0 %}

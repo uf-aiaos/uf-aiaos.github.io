@@ -1,1 +1,1 @@
-# The Animal Artificial Intelligence Lab 
+# The Artificial Intelligence in Animal Omics Sciences Lab 

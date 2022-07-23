@@ -47,9 +47,11 @@ permalink: /publications/
 For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}.
 ## Full list
 
-- **Yu H,** van Milgen J, Knol EF, Fernando RL, and Dekkers JCM. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands.
+- **Yu H**, van Milgen J, Knol EF, Fernando RL, and Dekkers JCM. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/13_013.pdf)
 
-- Dekkers JCM, Su L, Kramer L, and **Yu H.** (2022). A tool for the design of breeding programs using genomics. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands.
+- Dekkers JCM, Su L, Kramer L, and **Yu H**. (2022). A tool for the design of breeding programs using genomics. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/45_006.pdf)
+
+- Ni Z, Fernando RL, **Yu H**, Knol EF, Dekkers JCM. (2022). Genomic prediction of longitudinal body weights in pigs using a neural network. In: Proceedings, 12th World Congress of Genetics Applied to Livestock Production. July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/60_013.pdf)
 
 - Clevinger EM, Biyashev R, Lerch-Olson E, **Yu H**, Quigley C, Song Q, Dorrance AE, Robertson AE, and Maroof S. (2021). [Identification of Quantitative Disease Resistance Loci towards Four Pythium Species in Soybean.](https://www.frontiersin.org/articles/10.3389/fpls.2021.644746/abstract){:target="_blank"} _Frontiers in Plant Science_. doi: 10.3389/fpls.2021.644746
 

@@ -10,7 +10,9 @@ permalink: /research/
 
 #### **1. Integration of -omics data for genetic improvement using machine learning and statistical modeling**
 
-- **Yu, H,** van Milgen, J, Knol, E. F, Fernando, R. L, and Dekkers, J. C. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands.
+- **Yu, H**, van Milgen, J, Knol, E. F, Fernando, R. L, and Dekkers, J. C. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/13_013.pdf)
+
+- Ni Z, Fernando RL, **Yu H**, Knol EF, Dekkers JCM. (2022). Genomic prediction of longitudinal body weights in pigs using a neural network. In: Proceedings, 12th World Congress of Genetics Applied to Livestock Production. July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/60_013.pdf)
 
 - Pegolo S, **Yu H**, Morota G, Bisutti V, Rosa GJM, Bittante G, and Cecchinato A. (2021). [Structural equation modelling for unravelling the multivariate genomic architecture of milk proteins in dairy cattle.](https://doi.org/10.3168/jds.2020-18321){:target="_blank"} _Journal of Dairy Science_. doi: 10.3168/jds.2020-18321
 
@@ -26,7 +28,7 @@ permalink: /research/
 
 #### **3. Software development**
 
-- Dekkers JCM, Su L, Kramer L, and **Yu H.** (2022). A tool for the design of breeding programs using genomics. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands.
+- Dekkers JCM, Su L, Kramer L, and **Yu H**. (2022). A tool for the design of breeding programs using genomics. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/45_006.pdf)
 
 - **Yu H** and Morota G. (2021). GCA: [An R package for genetic connectedness analysis using pedigree and genomic data.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07414-7){:target="_blank"} _BMC Genomics_. 22:119. doi: 10.1186/s12864-021-07414-7
 

@@ -1,13 +1,13 @@
 ---
 title: "AAI Lab - Home"
 layout: homelay
-excerpt: "Animal Artificial Intelligence Lab at UF."
+excerpt: "Artificial Intelligence in Animal Omics Sciences Lab at UF."
 sitemap: false
 permalink: /
 ---
 
 
-We are the Animal Artificial Intelligence (AAI) lab in [Department of Animal Sciences](https://animal.ifas.ufl.edu/){:target="_blank"} at the [University of Florida](https://www.ufl.edu/){:target="_blank"}. Our primary research interest focuses on integrating high-dimensional heterogeneous -omics data to advance animal agriculture. One of our research topics is accommodating multi-omics data using machine learning, statistical modeling, and computational methods for genetic improvement in animals. Intrigued by precision livestock farming, we are also interested in applying computer vision to acquire high-throughput animal phenomics data (e.g., real-time activity) and using machine learning to incorporate the high-dimensional sensor data into our research. 
+We are the Artificial Intelligence in Animal Omics Sciences lab in [Department of Animal Sciences](https://animal.ifas.ufl.edu/){:target="_blank"} at the [University of Florida](https://www.ufl.edu/){:target="_blank"}. Our primary research interest focuses on integrating high-dimensional heterogeneous -omics data to advance animal agriculture. One of our research topics is accommodating multi-omics data using machine learning, statistical modeling, and computational methods for genetic improvement in animals. Intrigued by precision livestock farming, we are also interested in applying computer vision to acquire high-throughput animal phenomics data (e.g., real-time activity) and using machine learning to incorporate the high-dimensional sensor data into our research. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
