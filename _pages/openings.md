@@ -23,7 +23,7 @@ Candidates with skills/experiences in statistical modeling, machine learning, co
 ### Current open positions
 
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/logo/Openings_AAI-Lab.jpeg" width="60%" height="60%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/logo/Openings_AIAOS-Lab.jpeg" width="60%" height="60%"></center>
 
 <!--[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf) -->
 
