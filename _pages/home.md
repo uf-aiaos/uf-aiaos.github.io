@@ -1,5 +1,5 @@
 ---
-title: "AAI Lab - Home"
+title: "AIAOS Lab - Home"
 layout: homelay
 excerpt: "Artificial Intelligence in Animal Omics Sciences Lab at UF."
 sitemap: false

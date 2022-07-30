@@ -1,5 +1,5 @@
 ---
-title: "AAI Lab - Openings"
+title: "AIAOS Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
