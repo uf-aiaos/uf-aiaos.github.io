@@ -44,8 +44,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 -->
 
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}.
-## Full list
+See the publications on [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}
 
 - **Yu H**, van Milgen J, Knol EF, Fernando RL, and Dekkers JCM. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/13_013.pdf)
 
