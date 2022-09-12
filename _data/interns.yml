@@ -1,14 +1,17 @@
-- name: Shivam Agarwal
-  photo: ShivamAgarwal.png
-  info: Electronics and Communications Engineering B.Tech
-  email: 
-  number_educ: 1
-  education1: Remote from Manipal Institute of Technology
+- name: Yugang (Joshua) Duan
+  photo: YG.jpeg
+  info: M.S., Electrical and Computer Engineering
+  email:
+  number_educ: 0 
+  education1: 
   education2: 
   education3: 
   education4: 
-  education5: 
+  education5:
   website: 0
-  linkedin: 0
-  twitter: 0
+  scholar: 0
+  orcid: 0
+  publons: 0
   github: 0
+  twitter: 0
+  linkedin: https://www.linkedin.com/in/yugang-duan-5629b1231/
