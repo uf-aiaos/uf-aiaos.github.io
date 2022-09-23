@@ -1,3 +1,21 @@
+- name: Jin Wang
+  photo: JW.jpg
+  info: M.S., Electrical and Computer Engineering
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  education5:
+  website: 0
+  linkedin: 0
+  scholar: 0
+  orcid: 0
+  publons: 0
+  github: https://github.com/jinwang-5840
+  twitter: 0
+  
 - name: Yue Li
   photo: YL.png
   info: M.S., Electrical and Computer Engineering
