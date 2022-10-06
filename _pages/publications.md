@@ -48,6 +48,9 @@ See the publications on [Google Scholar](https://scholar.google.com/citations?us
 
 - **Yu H**, Fernando RL, and Dekkers JCM. (2022). [Validation of the linear regression method to evaluate population accuracy and bias of predictions for non-linear models.](https://www.biorxiv.org/content/10.1101/2022.10.02.510518){:target="_blank"} _bioRxiv._ doi: 10.1101/2022.10.02.510518 
 
+- de Novais FJ, **Yu H**, Cesar ASM, Momen M, Poleti MD, Petry B, Mourao GB, de Almeida Re-
+gitano LC, Morota G, and Coutinho LL (2022). Multi-omic data integration for the study of production, carcass, and meat quality traits in Nellore cattle. _Frontiers in Genetics_. In press.
+
 - **Yu H**, van Milgen J, Knol EF, Fernando RL, and Dekkers JCM. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/13_013.pdf)
 
 - Dekkers JCM, Su L, Kramer L, and **Yu H**. (2022). A tool for the design of breeding programs using genomics. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/45_006.pdf)
