@@ -1,7 +1,7 @@
 ---
 title: "AIAOS Lab - Home"
 layout: homelay
-excerpt: "Artificial Intelligence in Animal Omics Sciences Lab at UF."
+excerpt: "Artificial Intelligence in Animal Omics Sciences."
 sitemap: false
 permalink: /
 ---
@@ -37,11 +37,6 @@ We are the Artificial Intelligence in Animal Omics Sciences lab in [Department o
   </a>
 </div>
 
-<!-- 
-<p style="text-align:center">
-<a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/nds_vu?ref_src=twsrc%5Etfw">Tweets by nds_vu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
--->
 <!--
 We are grateful for funding from the [Institute of Food and Agricultural Sciences (IFAS)](https://ifas.ufl.edu/), [Department of Animal Sciences](https://animal.ifas.ufl.edu/) at the [University of Florida](https://www.ufl.edu/).
 -->
