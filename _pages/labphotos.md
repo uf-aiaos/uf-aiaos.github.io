@@ -41,10 +41,16 @@ permalink: /labphotos/
 
 <p> &nbsp; </p>
 
+# 2023
+Future of Food Forum - Transforming Food Systems with Artificial Intelligence. Gainesville, FL. March 20. (Jin Wang)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/FFF23JIN.jpg" width="50%"> 
+</figure>
+
 # 2022
 UF/IFAS Animal Sciences 8th Graduate Symposium. St. Augustine, FL. October 6-7. (Left to right: Jin Wang, Haipeng Yu, Yue Li)
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ANSgradsymposium.jpeg" width="80%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ANSgradsymposium.jpeg" width="50%"> 
 </figure>
 
 
