@@ -159,10 +159,10 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 {% endif %}
 <br>
 
-## Interns
+## Research Assistant
 
 {% assign number_printed = 0 %}
-{% for member in site.data.interns %}
+{% for member in site.data.ra %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
