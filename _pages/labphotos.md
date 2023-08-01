@@ -44,7 +44,7 @@ permalink: /labphotos/
 # 2023
 * Jin Wang and Yu Hu started the first image data collection experiment using our developed automatic image acquisition pipeline at the University of Florida Dairy Unit.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/DairyDataCollection.jpg" width="50%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/DairyCollection.jpg" width="50%"> 
 </figure>
 
 * Future of Food Forum - Transforming Food Systems with Artificial Intelligence. Gainesville, FL. March 20. (Jin Wang)
