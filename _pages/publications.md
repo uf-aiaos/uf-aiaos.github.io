@@ -45,6 +45,9 @@ permalink: /publications/
 -->
 
 See the publications on [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}
+- Wang J, Hu Y, Xiang L, Morota G, Brooks SA, Wickens CL, Miller-Cushon EK, and **Yu, H**. (2023). [ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision.](https://arxiv.org/abs/2307.14487){:target="_blank"} _arXiv preprint_. doi: 10.48550/arXiv.2307.14487.
+
+- Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://arxiv.org/abs/2307.01383){:target="_blank"} _arXiv preprint_. doi: 10.48550/arXiv.2307.01383.
 
 - **Yu H**, Fernando RL, and Dekkers JCM. (2022). [Validation of the linear regression method to evaluate population accuracy and bias of predictions for non-linear models.](https://www.biorxiv.org/content/10.1101/2022.10.02.510518){:target="_blank"} _bioRxiv._ doi: 10.1101/2022.10.02.510518 
 
