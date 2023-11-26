@@ -24,7 +24,7 @@ permalink: /research/
 - **Yu H**, Campbell MT, Zhang Q, Walia H, and Morota G. (2019). [Genomic Bayesian confirmatory factor analysis and Bayesian network to characterize a wide spectrum of rice phenotypes.](https://doi.org/10.1534/g3.119.400154){:target="_blank"} _G3: Genes, Genomes, Genetics._ 9:1975-1986. doi: 10.1534/g3.119.400154
 
 #### **2. Computer vision-based high-throughput phenomics platform**
-- Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://arxiv.org/abs/2307.01383){:target="_blank"} _arXiv preprint_. doi: 10.48550/arXiv.2307.01383.
+- Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2023.100352.
 
 - **Yu H**, Lee K, and Morota G. (2021). [Forecasting dynamic body weight of non-restrained pigs from images using an RGB-D sensor camera.](https://academic.oup.com/tas/advance-article/doi/10.1093/tas/txab006/6102880){:target="_blank"} _Translational Animal Science_. 5:1-9. doi: 10.1093/tas/txab006
 

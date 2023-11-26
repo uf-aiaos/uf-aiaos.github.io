@@ -1,3 +1,21 @@
+- name: Yu Hu
+  photo: YH.jpeg
+  info: M.S., Electrical and Computer Engineering
+  email:
+  number_educ: 1
+  education1: OPS Research Assistant
+  education2:
+  education3:
+  education4:
+  education5:
+  website: https://huyuray.vercel.app/
+  linkedin: 0
+  scholar: 0
+  orcid: 0
+  publons: 0
+  github: https://github.com/huyuaaaray
+  twitter: 0
+  
 - name: Fan Zhao
   photo: FZ.png
   info: M.S., Electrical and Computer Engineering
@@ -50,4 +68,4 @@
   publons: 0
   github: 0
   twitter: 0
-  linkedin: https://www.linkedin.com/in/yugang-duan-5629b1231/
+  linkedin: 0

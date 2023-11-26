@@ -1,7 +1,8 @@
 - name: Jin Wang
   photo: JW.jpg
-  info: Ph.D. Student
+  info: Ph.D. Student 
   email:
+  interest: Precision Livestock Farming; Deep Learning; Computer Vision
   number_educ: 0
   education1:
   education2:
@@ -16,4 +17,3 @@
   github: https://github.com/JinWangAI
   twitter: 0
  
-

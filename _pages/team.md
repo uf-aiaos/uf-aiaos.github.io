@@ -23,7 +23,7 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>
-	  email: <{{ member.email }}><br>
+	  Email: <{{ member.email }}><br>
 	  CV: <a href="{{ member.CV }}" target="_blank">yu_cv.pdf</a> </i>
 	  
   <ul style="overflow: hidden">
@@ -86,7 +86,7 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 
 ## Lab Members
 
-- <span style="color:blue"> **We are looking for PhD students and Postdocs to join our team in Spring/Fall 2023. See details in the <a href="../openings">Openings</a> section.** </span>
+- <span style="color:blue"> **We are looking for PhD students and Postdocs to join our team in Spring/Fall 2024. See details in the <a href="../openings">Openings</a> section.** </span>
 
 ## Graduate Students
 
@@ -102,8 +102,9 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} </i>
-	  
+  <i>{{ member.info }} <br> </i>
+  <i> <b> Research Interests: </b> {{ member.interest }} </i>
+      
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -159,10 +160,10 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 {% endif %}
 <br>
 
-## Research Assistant
+## Research Intern
 
 {% assign number_printed = 0 %}
-{% for member in site.data.ra %}
+{% for member in site.data.intern %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -281,8 +282,7 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
   </ul>
   <!-- KEY NOTES: THE FIRST ACADEMIC ICON MUST BE FILLED, OTHERWISE IT WILL CAUSE TROUBLE-->
   <div class="social-links"> 
-  {% if member.github != 0 %} <a href="{{ member.github }}" target="_blank"> <i class="fa fa-github"></i></a> {% endif %} 
-  {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}" target="_blank"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.website != 0 %} <a href="{{ member.website }}" target="_blank"> <i class="fa fa-link"></i></a> {% endif %} {% if member.scholar != 0 %} <a href="{{ member.scholar }}" target="_blank"> <i class="ai ai-google-scholar ai-lg"></i></a> {% endif %} {% if member.twitter != 0 %} <a href="{{ member.twitter }}" target="_blank"> <i class="fa fa-twitter"></i></a> {% endif %} {% if member.publons != 0 %} <a href="{{ member.publons }}" target="_blank"> <i class="ai ai-publons ai-lg"></i></a> {% endif %} {% if member.orcid != 0 %} <a href="{{ member.orcid }}" target="_blank"> <i class="ai ai-orcid ai-lg"></i></a> {% endif %} 
+  {% if member.github != 0 %} <a href="{{ member.github }}" target="_blank"> <i class="fa fa-github"></i></a> {% endif %} {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}" target="_blank"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.website != 0 %} <a href="{{ member.website }}" target="_blank"> <i class="fa fa-link"></i></a> {% endif %} {% if member.scholar != 0 %} <a href="{{ member.scholar }}" target="_blank"> <i class="ai ai-google-scholar ai-lg"></i></a> {% endif %} {% if member.twitter != 0 %} <a href="{{ member.twitter }}" target="_blank"> <i class="fa fa-twitter"></i></a> {% endif %} {% if member.publons != 0 %} <a href="{{ member.publons }}" target="_blank"> <i class="ai ai-publons ai-lg"></i></a> {% endif %} {% if member.orcid != 0 %} <a href="{{ member.orcid }}" target="_blank"> <i class="ai ai-orcid ai-lg"></i></a> {% endif %} 
 </div>
   
   
