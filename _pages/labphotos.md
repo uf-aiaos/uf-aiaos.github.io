@@ -42,6 +42,11 @@ permalink: /labphotos/
 <p> &nbsp; </p>
 
 # 2023
+* UF/IFAS Animal Sciences Christmas Party. Gainesville, FL. December 14. (Left to right: Alberta, Jin Wang, Yuechen Guo, Haipeng Yu, and Albert)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ANSChristmas23.jpg" width="60%"> 
+</figure>
+
 * UF/IFAS Animal Sciences 9th Graduate Symposium. St. Augustine, FL. October 12-13. (Jin Wang)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ANS-symposium23.png" width="60%"> 
