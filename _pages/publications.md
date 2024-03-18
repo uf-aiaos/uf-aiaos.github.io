@@ -45,7 +45,10 @@ permalink: /publications/
 -->
 
 See the publications on [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}
-- Wang J, Hu Y, Xiang L, Morota G, Brooks SA, Wickens CL, Miller-Cushon EK, and **Yu, H**. (2023). [ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision.](https://arxiv.org/abs/2307.14487){:target="_blank"} _arXiv preprint_. doi: 10.48550/arXiv.2307.14487.
+
+- Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves. JDS Communications.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486.
+
+- Wang J, Hu Y, Xiang L, Morota G, Brooks SA, Wickens CL, Miller-Cushon EK, and **Yu, H**. (2024). [Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision.](https://doi.org/10.1093/jas/skad416){:target="_blank"} _Journal of Animal Science_. doi: 10.1093/jas/skad416.
 
 - Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2023.100352.
 

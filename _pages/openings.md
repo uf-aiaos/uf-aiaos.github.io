@@ -10,7 +10,7 @@ permalink: /openings/
 <center><img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-tower-2.jpeg" width="80%" height="30%"></center>
 </figure>
 
-<center><b><font size="6">We are looking for Ph.D. students and Postdocs to join our team in Spring/Fall 2024!</font></b></center>
+<center><b><font size="6">We are looking for Ph.D. students and Postdocs to join our team!</font></b></center>
 
 ### How to apply
 Interested candidates may email Dr. Haipeng Yu (<haipengyu@ufl.edu>) with the subject line **"PhD/Postdoc Application"** and attach the following materials: 
@@ -23,7 +23,7 @@ Interested candidates may email Dr. Haipeng Yu (<haipengyu@ufl.edu>) with the su
 ### Current open positions
 
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/logo/Openings_AIAOS-Lab.jpeg" width="60%" height="60%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/logo/Openings_AIAOS-Lab.jpg" width="60%" height="60%"></center>
 
 <!--[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf) -->
 
