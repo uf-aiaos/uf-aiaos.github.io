@@ -9,50 +9,15 @@ permalink: /publications/
 
 # Publications
 
-
-<!--
-## Highlights
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=et6IhFcAAAAJ))
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-{% assign number_printed = number_printed | plus: 1 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-{% endif %}
-{% endfor %}
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-<p> &nbsp; </p>
--->
-
 See the publications on [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}
 
-- Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves. JDS Communications.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486.
+- **Yu H**, Fernando RL, and Dekkers JCM. (2024). [Use of the linear regression method to evaluate population accuracy of predictions from non-linear models.](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1380643){:target="_blank"} _Frontiers in Genetics._ doi: 10.3389/fgene.2024.1380643
 
-- Wang J, Hu Y, Xiang L, Morota G, Brooks SA, Wickens CL, Miller-Cushon EK, and **Yu, H**. (2024). [Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision.](https://doi.org/10.1093/jas/skad416){:target="_blank"} _Journal of Animal Science_. doi: 10.1093/jas/skad416.
+- Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves. JDS Communications.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486
 
-- Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2023.100352.
+- Wang J, Hu Y, Xiang L, Morota G, Brooks SA, Wickens CL, Miller-Cushon EK, and **Yu, H**. (2024). [Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision.](https://doi.org/10.1093/jas/skad416){:target="_blank"} _Journal of Animal Science_. doi: 10.1093/jas/skad416
 
-- **Yu H**, Fernando RL, and Dekkers JCM. (2022). [Validation of the linear regression method to evaluate population accuracy and bias of predictions for non-linear models.](https://www.biorxiv.org/content/10.1101/2022.10.02.510518){:target="_blank"} _bioRxiv._ doi: 10.1101/2022.10.02.510518 
+- Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2023.100352
 
 - de Novais FJ, **Yu H**, Cesar ASM, Momen M, Poleti MD, Petry B, Mourao GB, de Almeida Re-
 gitano LC, Morota G, and Coutinho LL (2022). [Multi-omic data integration for the study of production, carcass, and meat quality traits in Nellore cattle.](https://www.frontiersin.org/articles/10.3389/fgene.2022.948240/full) _Frontiers in Genetics_. doi: 10.3389/fgene.2022.948240
