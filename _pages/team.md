@@ -231,6 +231,8 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 {% endif %}
 <br>
 
+<!-- ## Support Squad-->
+
 ## Lab Alumni
 
 <style>
