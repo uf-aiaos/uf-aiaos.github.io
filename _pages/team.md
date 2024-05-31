@@ -270,7 +270,7 @@ tr:nth-child(even) {
 <table>
   <thead>
     <tr>
-      <th>Headshot</th>
+      <th> </th>
       <th>Name</th>
       <th>Degree</th>
       <th>Position at AIAOS Lab</th>
