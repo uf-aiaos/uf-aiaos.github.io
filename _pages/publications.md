@@ -11,9 +11,11 @@ permalink: /publications/
 
 See the publications on [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}
 
+- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN (2024). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://doi.org/10.21203/rs.3.rs-4571697/v1){:target="_blank"} _Research Square._ doi: 10.21203/rs.3.rs-4571697/v1
+
 - **Yu H**, Fernando RL, and Dekkers JCM. (2024). [Use of the linear regression method to evaluate population accuracy of predictions from non-linear models.](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1380643){:target="_blank"} _Frontiers in Genetics._ doi: 10.3389/fgene.2024.1380643
 
-- Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves. JDS Communications.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486
+- Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486
 
 - Wang J, Hu Y, Xiang L, Morota G, Brooks SA, Wickens CL, Miller-Cushon EK, and **Yu, H**. (2024). [Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision.](https://doi.org/10.1093/jas/skad416){:target="_blank"} _Journal of Animal Science_. doi: 10.1093/jas/skad416
 

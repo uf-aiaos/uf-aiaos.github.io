@@ -9,6 +9,8 @@ permalink: /research/
 # Research
 
 #### **1. Integration of -omics data for genetic improvement using machine learning and statistical modeling**
+- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN (2024). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://doi.org/10.21203/rs.3.rs-4571697/v1){:target="_blank"} _Research Square._ doi: 10.21203/rs.3.rs-4571697/v1
+
 - **Yu H**, Fernando RL, and Dekkers JCM. (2024). [Use of the linear regression method to evaluate population accuracy of predictions from non-linear models.](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1380643){:target="_blank"} _Frontiers in Genetics._ doi: 10.3389/fgene.2024.1380643
 
 - **Yu, H**, van Milgen, J, Knol, E. F, Fernando, R. L, and Dekkers, J. C. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/13_013.pdf)
@@ -24,6 +26,8 @@ permalink: /research/
 - **Yu H**, Campbell MT, Zhang Q, Walia H, and Morota G. (2019). [Genomic Bayesian confirmatory factor analysis and Bayesian network to characterize a wide spectrum of rice phenotypes.](https://doi.org/10.1534/g3.119.400154){:target="_blank"} _G3: Genes, Genomes, Genetics._ 9:1975-1986. doi: 10.1534/g3.119.400154
 
 #### **2. Precision livestock farming**
+- Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486
+
 - Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2023.100352
 
 - **Yu H**, Lee K, and Morota G. (2021). [Forecasting dynamic body weight of non-restrained pigs from images using an RGB-D sensor camera.](https://academic.oup.com/tas/advance-article/doi/10.1093/tas/txab006/6102880){:target="_blank"} _Translational Animal Science_. 5:1-9. doi: 10.1093/tas/txab006
