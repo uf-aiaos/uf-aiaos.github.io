@@ -89,7 +89,6 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 - <span style="color:blue"> **We are looking for PhD students and Postdocs to join our team in Spring/Fall 2024. See details in the <a href="../openings">Openings</a> section.** </span>
 
 ## Graduate Students
-
 {% assign number_printed = 0 %}
 {% for member in site.data.graduate %}
 

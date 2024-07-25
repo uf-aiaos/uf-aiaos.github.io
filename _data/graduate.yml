@@ -1,3 +1,22 @@
+- name: Yuxi Zhang
+  photo: YZ.jpg
+  info: M.S. Student 
+  email:
+  interest: Quantitative Genetics 
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  education5:
+  website: https://yuxizhang.owlstown.net/
+  linkedin: 0
+  scholar: 0
+  orcid: 0
+  publons: 0
+  github: https://github.com/fiona-Zhang8
+  twitter: 0
+  
 - name: Jin Wang
   photo: JW.jpg
   info: Ph.D. Student 
