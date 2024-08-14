@@ -1,3 +1,22 @@
+- name: Angelo De Castro
+  photo: AC.jpg
+  info: Ph.D. Student 
+  email:
+  interest: Precision Livestock Farming; Deep Learning; Computer Vision
+  number_educ: 1
+  education1: UF Department of Animal Sciences PhD Partial Assistantship for Dairy Science
+  education2:
+  education3:
+  education4:
+  education5:
+  website: https://angelodecastro.github.io/Angelo-Portfolio/
+  linkedin: 0
+  scholar: 0
+  orcid: 0
+  publons: 0
+  github: https://github.com/angelodecastro
+  twitter: 0
+
 - name: Yuxi Zhang
   photo: YZ.jpg
   info: M.S. Student 
