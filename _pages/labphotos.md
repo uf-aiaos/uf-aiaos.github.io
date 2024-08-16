@@ -41,6 +41,12 @@ permalink: /labphotos/
 
 <p> &nbsp; </p>
 
+# 2024
+* Lab lunch at Ford's Garage Gainesville (Left to right: Yuecheng, Jin, Yuxi, Lucas, Angelo, and Haipeng)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/lablunch24.jpg" width="60%"> 
+</figure>
+
 # 2023
 * UF/IFAS Animal Sciences Christmas Party. Gainesville, FL. December 14. (Left to right: Alberta, Jin Wang, Yuechen Guo, Haipeng Yu, and Albert)
 <figure>
