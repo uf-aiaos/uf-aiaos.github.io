@@ -8,8 +8,8 @@ permalink: /research/
 
 # Research
 
-#### **1. Integration of -omics data for genetic improvement using machine learning and statistical modeling**
-- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN. (2024). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://doi.org/10.21203/rs.3.rs-4571697/v1){:target="_blank"} _Research Square._ doi: 10.21203/rs.3.rs-4571697/v1
+#### **1. Integration of -omics data for genetic improvement using statistical modeling and machine learning**
+- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN. (2024). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://doi.org/10.21203/rs.3.rs-4571697/v1){:target="_blank"} _Research Square._ doi: 10.21203/rs.3.rs-4571697
 
 - Yan H, Jin Y, **Yu H**, Wang C, Wu B, Jone CS, Wang X, Xie Z, and Huang L. (2024). [Genomic selection for agronomical phenotypes using genome-wide SNPs and SVs in pearl millet.](https://doi.org/10.1007/s00122-024-04754-2){:target="_blank"} _Theoretical and Applied Genetics._ doi: 10.1007/s00122-024-04754-2
 
@@ -27,14 +27,16 @@ permalink: /research/
 
 - **Yu H**, Campbell MT, Zhang Q, Walia H, and Morota G. (2019). [Genomic Bayesian confirmatory factor analysis and Bayesian network to characterize a wide spectrum of rice phenotypes.](https://doi.org/10.1534/g3.119.400154){:target="_blank"} _G3: Genes, Genomes, Genetics._ 9:1975-1986. doi: 10.1534/g3.119.400154
 
-#### **2. Precision livestock farming**
+#### **2. AI-assisted precision livestock farming**
 - Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486
 
 - Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2023.100352
 
 - **Yu H**, Lee K, and Morota G. (2021). [Forecasting dynamic body weight of non-restrained pigs from images using an RGB-D sensor camera.](https://academic.oup.com/tas/advance-article/doi/10.1093/tas/txab006/6102880){:target="_blank"} _Translational Animal Science_. 5:1-9. doi: 10.1093/tas/txab006
 
-#### **3. Open-source software development**
+#### **3. Open-source software development for animal omics sciences**
+- De Castro A, Wang J, Bonney-King JG, Morota G, Miller-Cushon EK, and **Yu, H**. [AnimalMotionViz: an interactive software tool for tracking and visualizing animal motion patterns using computer vision.](https://doi.org/10.1101/2024.10.22.619671){:target="_blank"} _bioRxiv_. doi: 10.1101/2024.10.22.619671
+
 - Wang J, Hu Y, Xiang L, Morota G, Brooks SA, Wickens CL, Miller-Cushon EK, and **Yu, H**. (2024). [Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision.](https://doi.org/10.1093/jas/skad416){:target="_blank"} _Journal of Animal Science_. doi: 10.1093/jas/skad416
 
 - Dekkers JCM, Su L, Kramer L, and **Yu H**. (2022). A tool for the design of breeding programs using genomics. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/45_006.pdf)
