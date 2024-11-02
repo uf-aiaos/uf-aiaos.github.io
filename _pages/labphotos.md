@@ -42,6 +42,12 @@ permalink: /labphotos/
 <p> &nbsp; </p>
 
 # 2024
+* Yu's lab attended the 10th UF/IFAS Animal Sciences Graduate Symposium in St. Augustine, FL. Jin and Angelo presented their projects at the symposium.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ans-symposium-24.png" width="60%"> 
+</figure>
+
+
 * Lab lunch at Ford's Garage Gainesville (Left to right: Yuecheng, Jin, Yuxi, Lucas, Angelo, and Haipeng)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/lablunch24.jpg" width="60%"> 
@@ -55,7 +61,7 @@ permalink: /labphotos/
 
 * UF/IFAS Animal Sciences 9th Graduate Symposium. St. Augustine, FL. October 12-13. (Jin Wang)
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ANS-symposium23.png" width="60%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ANS-symposium23.jpg" width="60%"> 
 </figure>
 
 * Jin Wang and Yu Hu started the first image data collection experiment using our developed automatic image acquisition pipeline at the University of Florida Dairy Unit.
