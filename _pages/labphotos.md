@@ -61,7 +61,7 @@ permalink: /labphotos/
 
 * UF/IFAS Animal Sciences 9th Graduate Symposium. St. Augustine, FL. October 12-13. (Jin Wang)
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ANS-symposium23.jpg" width="60%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ANS-symposium23.jpg" width="50%"> 
 </figure>
 
 * Jin Wang and Yu Hu started the first image data collection experiment using our developed automatic image acquisition pipeline at the University of Florida Dairy Unit.
