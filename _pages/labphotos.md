@@ -42,6 +42,11 @@ permalink: /labphotos/
 <p> &nbsp; </p>
 
 # 2024
+* End of year lab celebration. 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/endofyear24.png" width="60%"> 
+</figure>
+
 * Yu's lab attended the 10th UF/IFAS Animal Sciences Graduate Symposium in St. Augustine, FL. Jin and Angelo presented their projects at the symposium.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ans-symposium-24.png" width="60%"> 
