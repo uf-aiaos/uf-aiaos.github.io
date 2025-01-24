@@ -9,8 +9,6 @@ permalink: /research/
 # Research
 
 #### **1. Integration of -omics data for genetic improvement using statistical modeling and machine learning**
-- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN. (2024). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://doi.org/10.21203/rs.3.rs-4571697/v1){:target="_blank"} _Research Square._ doi: 10.21203/rs.3.rs-4571697
-
 - Yan H, Jin Y, **Yu H**, Wang C, Wu B, Jone CS, Wang X, Xie Z, and Huang L. (2024). [Genomic selection for agronomical phenotypes using genome-wide SNPs and SVs in pearl millet.](https://doi.org/10.1007/s00122-024-04754-2){:target="_blank"} _Theoretical and Applied Genetics._ doi: 10.1007/s00122-024-04754-2
 
 - **Yu H**, Fernando RL, and Dekkers JCM. (2024). [Use of the linear regression method to evaluate population accuracy of predictions from non-linear models.](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1380643){:target="_blank"} _Frontiers in Genetics._ doi: 10.3389/fgene.2024.1380643
@@ -28,6 +26,10 @@ permalink: /research/
 - **Yu H**, Campbell MT, Zhang Q, Walia H, and Morota G. (2019). [Genomic Bayesian confirmatory factor analysis and Bayesian network to characterize a wide spectrum of rice phenotypes.](https://doi.org/10.1534/g3.119.400154){:target="_blank"} _G3: Genes, Genomes, Genetics._ 9:1975-1986. doi: 10.1534/g3.119.400154
 
 #### **2. AI-assisted precision livestock farming**
+- Wang J, Yu Z, Chebel RC, and **Yu H**. (2025). [Impact of cross-validation designs on cattle behavior prediction using machine learning and deep learning models with tri-axial accelerometer data.](https://doi.org/10.1101/2025.01.22.634181){:target="_blank"} _bioRxiv_. doi: 10.1101/2025.01.22.634181
+
+- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN. (2025). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00366-9){:target="_blank"} _Animal Microbiome._ doi: 10.1186/s42523-024-00366-9
+
 - Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486
 
 - Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2023.100352

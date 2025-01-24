@@ -11,9 +11,11 @@ permalink: /publications/
 
 See the publications on [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}
 
-- De Castro A, Wang J, Bonney-King JG, Morota G, Miller-Cushon EK, and **Yu, H**. (2024). [AnimalMotionViz: an interactive software tool for tracking and visualizing animal motion patterns using computer vision.](https://doi.org/10.1101/2024.10.22.619671){:target="_blank"} _bioRxiv_. doi: 10.1101/2024.10.22.619671
+- Wang J, Yu Z, Chebel RC, and **Yu H**. (2025). [Impact of cross-validation designs on cattle behavior prediction using machine learning and deep learning models with tri-axial accelerometer data.](https://doi.org/10.1101/2025.01.22.634181){:target="_blank"} _bioRxiv_. doi: 10.1101/2025.01.22.634181
 
-- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN. (2024). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://doi.org/10.21203/rs.3.rs-4571697/v1){:target="_blank"} _Research Square._ doi: 10.21203/rs.3.rs-4571697
+- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN. (2025). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00366-9){:target="_blank"} _Animal Microbiome._ doi: 10.1186/s42523-024-00366-9
+
+- De Castro A, Wang J, Bonney-King JG, Morota G, Miller-Cushon EK, and **Yu, H**. (2024). [AnimalMotionViz: an interactive software tool for tracking and visualizing animal motion patterns using computer vision.](https://doi.org/10.1101/2024.10.22.619671){:target="_blank"} _bioRxiv_. doi: 10.1101/2024.10.22.619671
 
 - Yan H, Jin Y, **Yu H**, Wang C, Wu B, Jone CS, Wang X, Xie Z, and Huang L. (2024). [Genomic selection for agronomical phenotypes using genome-wide SNPs and SVs in pearl millet.](https://doi.org/10.1007/s00122-024-04754-2){:target="_blank"} _Theoretical and Applied Genetics._ doi: 10.1007/s00122-024-04754-2
 
