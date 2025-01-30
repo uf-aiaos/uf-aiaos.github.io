@@ -37,7 +37,7 @@ permalink: /research/
 - **Yu H**, Lee K, and Morota G. (2021). [Forecasting dynamic body weight of non-restrained pigs from images using an RGB-D sensor camera.](https://academic.oup.com/tas/advance-article/doi/10.1093/tas/txab006/6102880){:target="_blank"} _Translational Animal Science_. 5:1-9. doi: 10.1093/tas/txab006
 
 #### **3. Open-source software development for animal omics sciences**
-- De Castro A, Wang J, Bonney-King JG, Morota G, Miller-Cushon EK, and **Yu, H**. [AnimalMotionViz: an interactive software tool for tracking and visualizing animal motion patterns using computer vision.](https://doi.org/10.1101/2024.10.22.619671){:target="_blank"} _bioRxiv_. doi: 10.1101/2024.10.22.619671
+- De Castro A, Wang J, Bonney-King JG, Morota G, Miller-Cushon EK, and **Yu, H**. [AnimalMotionViz: an interactive software tool for tracking and visualizing animal motion patterns using computer vision.](https://doi.org/10.1101/2024.10.22.619671){:target="_blank"} _JDS Communications_. In press. doi: 10.1101/2024.10.22.619671
 
 - Wang J, Hu Y, Xiang L, Morota G, Brooks SA, Wickens CL, Miller-Cushon EK, and **Yu, H**. (2024). [Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision.](https://doi.org/10.1093/jas/skad416){:target="_blank"} _Journal of Animal Science_. doi: 10.1093/jas/skad416
 
