@@ -1,8 +1,13 @@
-- date: <b>01/27/2025</b>
+- date: <b>03/06/2025</b>
+  headline: "<b> 
+  Congratulations to Angelo on being selected for the Spring 2025 ANS Graduate Student Top-up Award! Great job!
+  </b>"
+
+- date: <b>03/06/2025</b>
   headline: "<b> Angelo's first PhD paper 
-  <a href=\"https://doi.org/10.1101/2024.10.22.619671\" target=\"_blank\" rel=\"noopener noreferrer\">
+  <a href=\"https://doi.org/10.3168/jdsc.2024-0706\" target=\"_blank\" rel=\"noopener noreferrer\">
   AnimalMotionViz: an interactive software tool for tracking and visualizing animal motion patterns using computer vision</a> 
-  has been accepted by JDS Communications. Congrats, Angelo!
+  is now online at JDS Communications. Congrats, Angelo!
   </b>"
  
 
@@ -19,7 +24,9 @@
   </b>"
 
 - date: <b>09/10/2024</b>
-  headline: "<b> Our lab's research has been highlighted in the <a href=\"https://www.flipsnack.com/ufansci/uf-ifas-animal-sciences-have-you-herd-summer-2024/full-view.html\" target=\"_blank\" rel=\"noopener noreferrer\">ANS department newsletter</a> (pages 12-13). </b>"
+  headline: "<b> Our lab's research has been highlighted in the 
+  <a href=\"https://www.flipsnack.com/ufansci/uf-ifas-animal-sciences-have-you-herd-summer-2024/full-view.html\" target=\"_blank\" rel=\"noopener noreferrer\">
+  ANS department newsletter</a> (pages 12-13). </b>"
 
 - date: <b>08/13/2024</b>
   headline: "<b> Welcome Angelo De Castro to our lab! Angelo is a new PhD student with a focus on precision livestock farming. </b>"
@@ -31,27 +38,40 @@
   headline: "<b> Yuxi Zhang joined our lab as a master's student in quantitative genetics. Welcome, Yuxi! </b>"
 
 - date: <b>05/31/2024</b>
-  headline: "<b> Our paper <a href=\"https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1380643/full\" target=\"_blank\" rel=\"noopener noreferrer\">Use of the linear regression method to evaluate population accuracy of predictions from non-linear models</a> is now published!</b>"
+  headline: "<b> Our paper <a href=\"https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1380643/full\" target=\"_blank\" rel=\"noopener noreferrer\">
+  Use of the linear regression method to evaluate population accuracy of predictions from non-linear models</a> is now published!</b>"
 
 - date: <b>04/22/2024</b>
-  headline: "<b> Dr. Rohan Fernando visited our lab and gave an invited talk at the <a href=\"https://ifas.ufl.edu/artificial-intelligence/ai-seminar-series\" target=\"_blank\" rel=\"noopener noreferrer\">IFAS AI and Data Science Seminar</a>. </b>"
+  headline: "<b> Dr. Rohan Fernando visited our lab and gave an invited talk at the 
+  <a href=\"https://ifas.ufl.edu/artificial-intelligence/ai-seminar-series\" target=\"_blank\" rel=\"noopener noreferrer\">
+  IFAS AI and Data Science Seminar</a>. </b>"
 
 - date: <b>03/02/2024</b>
-  headline: "<b> Jin's first PhD paper <a href=\"https://doi.org/10.1093/jas/skad416\" target=\"_blank\" rel=\"noopener noreferrer\">Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision</a> has been published in the Journal of Animal Science. Congrats!</b>"
+  headline: "<b> Jin's first PhD paper 
+  <a href=\"https://doi.org/10.1093/jas/skad416\" target=\"_blank\" rel=\"noopener noreferrer\">
+  Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, 
+  segmentation, and three-dimensional visualization of animals using computer vision</a> has been published in the Journal of Animal Science. Congrats!</b>"
 
 - date: <b>01/14/2024</b>
-  headline: "<b> Haipeng gave an invited talk in the <a href=\"https://plan.core-apps.com/pag_2024/event/010188de0fd844f726994e55b2e81159\" target=\"_blank\" rel=\"noopener noreferrer\">Gene Mapping by Segregation session</a> at the PAG 31 meeting. </b>"
+  headline: "<b> Haipeng gave an invited talk in the 
+  <a href=\"https://plan.core-apps.com/pag_2024/event/010188de0fd844f726994e55b2e81159\" target=\"_blank\" rel=\"noopener noreferrer\">
+  Gene Mapping by Segregation session</a> at the PAG 31 meeting. </b>"
 
 - date: <b>11/27/2023</b>
   headline: "<b> Yuechen joined our lab as a research intern. Welcome! </b>"
 
 - date: <b>10/25/2023</b>
-  headline: "<b> Haipeng gave an invited talk in <a href=\"https://swineimprovementfederation.com/conference/\" target=\"_blank\" rel=\"noopener noreferrer\">2023 National Swine Improvement Federation.</a> </b>"
+  headline: "<b> Haipeng gave an invited talk in 
+  <a href=\"https://swineimprovementfederation.com/conference/\" target=\"_blank\" rel=\"noopener noreferrer\">
+  2023 National Swine Improvement Federation.</a> </b>"
+
 - date: <b>10/12/2023</b>
   headline: "<b> Jin gave her <a href=\"../labphotos\">first oral presentation</a> at the UF/IFAS Animal Sciences 9th Graduate Symposium. Good job!</b>"
   
 - date: <b>07/28/2023</b>
-  headline: "<b> Our open-source online computer vision web application, <strong>ShinyAnimalCV</strong>, led by <strong> Jin Wang and Yu Hu </strong> is on <a href=\"https://arxiv.org/abs/2307.14487\" target=\"_blank\" rel=\"noopener noreferrer\"><i>arXiv</i></a>! ShinyAnimalCV is designed for performing computer vision tasks using animal image data. Congratulations, Jin and Yu! </b>"
+  headline: "<b> Our open-source online computer vision web application, <strong>ShinyAnimalCV</strong>, led by <strong> Jin Wang and Yu Hu </strong> is on 
+  <a href=\"https://arxiv.org/abs/2307.14487\" target=\"_blank\" rel=\"noopener noreferrer\"><i>arXiv</i></a>!
+  ShinyAnimalCV is designed for performing computer vision tasks using animal image data. Congratulations, Jin and Yu! </b>"
   
 - date: <b>03/20/2023</b>
   headline: "<b> Jin presented her <a href=\"../labphotos\">first poster</a> at the 2023 Future of Food Forum - Transforming Food Systems with Artificial Intelligence. </b>"
@@ -60,7 +80,9 @@
   headline: "<b> Yu Hu joined our lab as a research intern. Welcome! </b>"
   
 - date: <b>01/14/2023</b>
-  headline: "<b> Haipeng gave an invited talk in the <a href=\"https://plan.core-apps.com/pag_2023/event/ca2a62be6dd0afd165d3d120fdcef88c\" target=\"_blank\" rel=\"noopener noreferrer\">Genomic Selection and Genome-Wide Association Studies session</a> at the PAG 30 meeting. </b>"
+  headline: "<b> Haipeng gave an invited talk in the 
+  <a href=\"https://plan.core-apps.com/pag_2023/event/ca2a62be6dd0afd165d3d120fdcef88c\" target=\"_blank\" rel=\"noopener noreferrer\">
+  Genomic Selection and Genome-Wide Association Studies session</a> at the PAG 30 meeting. </b>"
 
 - date: <b>01/2023</b>
   headline: "<b> Jin Wang joined our lab as the first Ph.D. student. Welcome, Jin!  </b>"
@@ -75,7 +97,8 @@
   headline: "<b> Our collaborative proposal <q> Dissecting genetic controls of plant root and shoot architecture using AI methods </q> was awarded by an internal grant program (LIFT AI) at UF! </b>"
 
 - date: <b>10/05/2022</b>
-  headline: "<b> Our paper <a href=\"https://www.biorxiv.org/content/10.1101/2022.10.02.510518\" target=\"_blank\" rel=\"noopener noreferrer\">Validation of the linear regression method to evaluate population accuracy and bias of predictions for non-linear models</a> is up on <i>bioRxiv</i>!</b>"
+  headline: "<b> Our paper <a href=\"https://www.biorxiv.org/content/10.1101/2022.10.02.510518\" target=\"_blank\" rel=\"noopener noreferrer\">
+  Validation of the linear regression method to evaluate population accuracy and bias of predictions for non-linear models</a> is up on <i>bioRxiv</i>!</b>"
   
 - date: <b>09/2022</b>
   headline: "<b>Welcome Jin, who joined our lab as a research intern.</b>"
