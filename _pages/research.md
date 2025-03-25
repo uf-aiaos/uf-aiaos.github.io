@@ -9,6 +9,9 @@ permalink: /research/
 # Research
 
 #### **1. Integration of -omics data for genetic improvement using statistical modeling and machine learning**
+
+- Anas M, Zhao B, **Yu H**, Dahlen C, Swanson KC, Ringwall KA, Hulsman Hanna LL. (2025). [Multi-Trait Phenotypic Modeling Through Factor Analysis and Bayesian Network Learning to Develop Latent Reproductive, Body Conformational, and Carcass-Associated Traits in Admixed Beef Heifers.](https://doi.org/10.3389/fgene.2025.1551967){:target="_blank"} _Frontiers in Genetics_. doi: 10.3389/fgene.2025.1551967.
+
 - Yan H, Jin Y, **Yu H**, Wang C, Wu B, Jone CS, Wang X, Xie Z, and Huang L. (2024). [Genomic selection for agronomical phenotypes using genome-wide SNPs and SVs in pearl millet.](https://doi.org/10.1007/s00122-024-04754-2){:target="_blank"} _Theoretical and Applied Genetics._ doi: 10.1007/s00122-024-04754-2
 
 - **Yu H**, Fernando RL, and Dekkers JCM. (2024). [Use of the linear regression method to evaluate population accuracy of predictions from non-linear models.](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1380643){:target="_blank"} _Frontiers in Genetics._ doi: 10.3389/fgene.2024.1380643

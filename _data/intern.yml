@@ -1,3 +1,21 @@
+- name: Meizi Wang
+  photo: MW.jpg
+  info: B.S., Statistics
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  education5:
+  website: 0
+  linkedin: 0
+  scholar: 0
+  orcid: 0
+  publons: 0
+  github: 0
+  twitter: 0
+  
 - name: Yuechen Guo
   photo: YG.jpg
   info: M.S., Electrical and Computer Engineering
@@ -17,3 +35,4 @@
   twitter: 0
   
 
+  

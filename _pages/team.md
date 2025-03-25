@@ -241,7 +241,8 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" height="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}"
+     style="float: left; width: 120px; height: 150px; object-fit: cover; margin-right: 10px;" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
 	  
