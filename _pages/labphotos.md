@@ -41,6 +41,18 @@ permalink: /labphotos/
 
 <p> &nbsp; </p>
 
+# 2025
+* Yu's lab attended the 2025 US Precision Livestock Farming Conference. 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/plf2025.png" width="60%"> 
+</figure>
+
+* Dr. Dekkers gave a seminar in the ANS Department and had a group discussion with Yu's lab.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/dekkers-visit.png" width="60%"> 
+</figure>
+
+
 # 2024
 * End of year lab celebration. 
 <figure>
