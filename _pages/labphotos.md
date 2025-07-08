@@ -44,24 +44,24 @@ permalink: /labphotos/
 # 2025
 * Yu's lab attended the 2025 US Precision Livestock Farming Conference. 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/plf2025.png" width="60%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/plf2025.jpg" width="60%"> 
 </figure>
 
 * Dr. Dekkers gave a seminar in the ANS Department and had a group discussion with Yu's lab.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/dekkers-visit.png" width="60%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/dekkers-visit.jpg" width="60%"> 
 </figure>
 
 
 # 2024
 * End of year lab celebration. 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/endofyear24.png" width="60%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/endofyear24.jpg" width="60%"> 
 </figure>
 
 * Yu's lab attended the 10th UF/IFAS Animal Sciences Graduate Symposium in St. Augustine, FL. Jin and Angelo presented their projects at the symposium.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ans-symposium-24.png" width="60%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ans-symposium-24.jpg" width="60%"> 
 </figure>
 
 
