@@ -47,7 +47,7 @@ We are grateful for funding from the [Institute of Food and Agricultural Science
 <figure class="fourth">
   
   <img src="{{ site.url }}{{ site.baseurl }}/images/uf-logo/as.png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/uf-logo/uf-ifas.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/uf-logo/uf-ifas.jpg" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/uf-logo/uf.png" style="width: 210px">
 </figure>
 -->
