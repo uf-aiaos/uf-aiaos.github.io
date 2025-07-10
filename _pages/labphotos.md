@@ -42,6 +42,11 @@ permalink: /labphotos/
 <p> &nbsp; </p>
 
 # 2025
+* Dr. Yu presented the research project led by Jin at the 2025 American Society of Animal Science (ASAS) meeting.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/asas2025.jpg" width="80%"> 
+</figure>
+
 * Yu's lab attended the 2025 US Precision Livestock Farming Conference. 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/plf2025.jpg" width="60%"> 
