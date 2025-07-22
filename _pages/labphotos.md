@@ -42,9 +42,14 @@ permalink: /labphotos/
 <p> &nbsp; </p>
 
 # 2025
+* Dr. Rodrigo Mezencio Godinho from Topigs Norsvin visited our lab.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rodrigo-visit.png" width="70%"> 
+</figure>
+
 * Dr. Yu presented the research project led by Jin at the 2025 American Society of Animal Science (ASAS) meeting.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/asas2025.jpg" width="80%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/asas2025.jpg" width="70%"> 
 </figure>
 
 * Yu's lab attended the 2025 US Precision Livestock Farming Conference. 
