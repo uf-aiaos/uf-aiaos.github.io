@@ -42,22 +42,33 @@ permalink: /labphotos/
 <p> &nbsp; </p>
 
 # 2025
-* Dr. Rodrigo Mezencio Godinho from Topigs Norsvin visited our lab.
+* Yu's lab attended the 11th UF/IFAS Animal Sciences Graduate Symposium held at the Austin Cary Forest Campus. 
+    Jin, Yuxi, and Angelo presented their projects at the symposium – October 8.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ans-symposium-25.png" width="70%"> 
+</figure>
+
+* Dr. Rohan Fernando visited our lab and had a group discussion with our team – September 29. 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rfernando-visit.png" width="70%"> 
+</figure>
+
+* Dr. Rodrigo Mezencio Godinho from Topigs Norsvin visited our lab – July 14.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rodrigo-visit.png" width="70%"> 
 </figure>
 
-* Dr. Yu presented the research project led by Jin at the 2025 American Society of Animal Science (ASAS) meeting.
+* Dr. Yu presented the research project led by Jin at the 2025 American Society of Animal Science (ASAS) meeting – July 9.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/asas2025.jpg" width="70%"> 
 </figure>
 
-* Yu's lab attended the 2025 US Precision Livestock Farming Conference. 
+* Yu's lab attended the 2025 US Precision Livestock Farming Conference – June. 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/plf2025.jpg" width="60%"> 
 </figure>
 
-* Dr. Dekkers gave a seminar in the ANS Department and had a group discussion with Yu's lab.
+* Dr. Dekkers gave a seminar in the ANS Department and had a group discussion with Yu's lab – April 3.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/dekkers-visit.jpg" width="60%"> 
 </figure>
