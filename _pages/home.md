@@ -23,7 +23,7 @@ We are the Artificial Intelligence in Animal Omics Sciences (AIAOS) lab in [Depa
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/team2024.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rfernando-visit.PNG" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rfernando-visit.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-ans.jpeg" alt="Slide 3" />
