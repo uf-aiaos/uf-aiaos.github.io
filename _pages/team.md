@@ -229,6 +229,7 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 {% endif %}
 <br>
 
+<!--
 ## Visiting Students
 {% assign number_printed = 0 %}
 {% for member in site.data.visit %}
@@ -277,7 +278,7 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
   {% endif %}
 
   </ul>
-  <!-- KEY NOTES: THE FIRST ACADEMIC ICON MUST BE FILLED, OTHERWISE IT WILL CAUSE TROUBLE-->
+
   <div class="social-links"> 
   {% if member.website != 0 %} <a href="{{ member.website }}" target="_blank"> <i class="fa fa-link"></i></a> {% endif %} {% if member.github != 0 %} <a href="{{ member.github }}" target="_blank"> <i class="fa fa-github"></i></a> {% endif %} {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}" target="_blank"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.scholar != 0 %} <a href="{{ member.scholar }}" target="_blank"> <i class="ai ai-google-scholar ai-lg"></i></a> {% endif %} {% if member.twitter != 0 %} <a href="{{ member.twitter }}" target="_blank"> <i class="fa fa-twitter"></i></a> {% endif %} {% if member.publons != 0 %} <a href="{{ member.publons }}" target="_blank"> <i class="ai ai-publons ai-lg"></i></a> {% endif %} {% if member.orcid != 0 %} <a href="{{ member.orcid }}" target="_blank"> <i class="ai ai-orcid ai-lg"></i></a> {% endif %} 
 </div>
@@ -298,6 +299,8 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 </div>
 {% endif %}
 <br>
+
+-->
 
 ## Research Intern
 
@@ -414,7 +417,8 @@ tr:nth-child(even) {
       <th>Name</th>
       <th>Degree</th>
       <th>Position at AIAOS Lab</th>
-      <th>Current Position</th>
+      <th>Position After AIAOS Lab</th>
+      <th>Links</th>
     </tr>
   </thead>
   <tbody>
@@ -425,6 +429,23 @@ tr:nth-child(even) {
       <td>{{ alum.degree }}</td>
       <td>{{ alum.lab_position }}</td>
       <td>{{ alum.position | default: '-' }}</td>
+      <td>
+      {% if alum.website %}
+        <a href="{{ alum.website }}" target="_blank">Website</a>
+      {% endif %}
+      {% if alum.scholar %}
+        {% if alum.website %} | {% endif %}
+        <a href="{{ alum.scholar }}" target="_blank">Google Scholar</a>
+      {% endif %}
+      {% if alum.github %}
+        {% if alum.website or alum.scholar %} | {% endif %}
+        <a href="{{ alum.github }}" target="_blank">GitHub</a>
+      {% endif %}
+      {% if alum.orcid %}
+        {% if alum.website or alum.scholar or alum.github %} | {% endif %}
+        <a href="{{ alum.orcid }}" target="_blank">ORCID</a>
+      {% endif %}
+    </td>
     </tr>
     {% endfor %}
   </tbody>

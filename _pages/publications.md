@@ -11,6 +11,8 @@ permalink: /publications/
 
 See the publications on [Google Scholar](https://scholar.google.com/citations?user=JdcOaX0AAAAJ&hl=en){:target="_blank"}
 
+- Wang X, Choi D, Adams D, Ahn J, Balmant K, Dias R, Messina C, Munoz-Carpena R, Whitaker V, **Yu H**, Yu Z, Zhao C, and Li C. (2025). [Artificial intelligence-powered plant phenomics: Progress, challenges, and opportunities.](https://doi.org/10.1002/ppj2.70060){:target="_blank"} _The Plant Phenome Journal_. doi: 10.1002/ppj2.70060.
+
 - Wang J, Yu Z, Chebel RC, and **Yu H**. (2025). [Impact of cross-validation designs on cattle behavior prediction using machine learning and deep learning models with tri-axial accelerometer data.](https://doi.org/10.1016/j.atech.2025.101483){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2025.101483.
 
 - Chebel RC, Mirzaei A, **Yu H**, Lopes G Jr, and Bisinotto RS. (2025). [Early postpartum estrous characteristics: Unveiling their predictive potential for fertility in dairy cows.](https://doi.org/10.3168/jds.2025-27175){:target="_blank"} _Journal of Dairy Science_. doi: 10.3168/jds.2025-27175.
