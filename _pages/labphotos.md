@@ -41,6 +41,12 @@ permalink: /labphotos/
 
 <p> &nbsp; </p>
 
+# 2026
+* Yu's lab attended and presented at the 2026 UF IFAS AI Summit. Emerson Alumni Hall, University of Florida. February 12.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ifas-ai-summit26.png" width="70%"> 
+</figure>
+
 # 2025
 * Yu's lab attended the 11th UF/IFAS Animal Sciences Graduate Symposium held at the Austin Cary Forest Campus. 
     Jin, Yuxi, and Angelo presented their projects at the symposium – October 8.
