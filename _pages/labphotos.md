@@ -42,6 +42,11 @@ permalink: /labphotos/
 <p> &nbsp; </p>
 
 # 2026
+* Congrats Jin on finishing her PhD! Department of Animal Sciences, University of Florida. May 15.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/jingraduation.png" width="80%"> 
+</figure>
+
 * Yu's lab attended and presented at the 2026 UF IFAS AI Summit. Emerson Alumni Hall, University of Florida. February 12.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/ifas-ai-summit26.png" width="70%"> 
