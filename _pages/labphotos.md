@@ -42,6 +42,16 @@ permalink: /labphotos/
 <p> &nbsp; </p>
 
 # 2026
+* Yuxi (Fiona) successfully defended her Master's thesis. Congratulations! Department of Animal Sciences, University of Florida. June 29. 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/fionamsgrad.jpeg" width="80%"> 
+</figure>
+
+* The AIAOS Lab had a successful week at the ADSA 2026 Annual Meeting in Milwaukee, WI, June 21–24. Dr. Yu presented an invited symposium talk and one oral presentation. Our PhD student, Angelo, delivered one oral presentation and was awarded First Place in the Production Division PhD Poster Competition. Congratulations, Angelo!
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/adsa26.png" width="80%"> 
+</figure>
+
 * Congrats Jin on finishing her PhD! Department of Animal Sciences, University of Florida. May 15.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/jingraduation.png" width="80%"> 
