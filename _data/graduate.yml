@@ -1,11 +1,11 @@
 - name: Angelo De Castro
   photo: AC.jpg
-  info: Ph.D. Student 
+  info: Ph.D. Student (August 2024 – present)
   email:
   interest: Precision Livestock Farming; Deep Learning; Computer Vision
-  number_educ: 1
-  education1: UF Department of Animal Sciences PhD Partial Assistantship in Dairy Science
-  education2: 
+  number_educ: 2
+  education1: 1st Place, PhD Production Division, Purina Poster Competition, ADSA 2026 
+  education2: UF Department of Animal Sciences PhD Partial Assistantship in Dairy Science
   education3:
   education4:
   education5:
@@ -19,11 +19,11 @@
 
 - name: Yuxi Zhang
   photo: YZ.jpg
-  info: M.S. Student 
+  info: M.S. Student (August 2024 – present)
   email:
   interest: Quantitative Genetics 
   number_educ: 0
-  education1:
+  education1: UF Department of Animal Sciences PhD Partial Assistantship in Dairy Science
   education2:
   education3:
   education4:
@@ -38,7 +38,7 @@
   
 - name: Jin Wang
   photo: JW.jpg
-  info: Ph.D. Student 
+  info: Ph.D. Student (January 2023 – May 2025)
   email:
   interest: Precision Livestock Farming; Deep Learning; Computer Vision
   number_educ: 0
