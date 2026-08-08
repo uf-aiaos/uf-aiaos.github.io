@@ -7,7 +7,7 @@ permalink: /openings/
 ---
 
 <figure>
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-tower-2.jpeg" width="80%" height="30%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-tower-2.webp" width="80%" height="30%"></center>
 </figure>
 
 <center><b><font size="6">We are looking for Ph.D. students and Postdocs to join our team!</font></b></center>
@@ -23,10 +23,9 @@ Interested candidates may email Dr. Haipeng Yu (<haipengyu@ufl.edu>) with the su
 ### Current open positions
 
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/logo/Openings_AIAOS-Lab.jpg" width="60%" height="60%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/logo/Openings_AIAOS-Lab.webp" width="60%" height="60%"></center>
 
 <!--[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf) -->
-
 
 
 
