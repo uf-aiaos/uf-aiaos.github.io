@@ -7,7 +7,9 @@ permalink: /
 ---
 
 
-We are the Artificial Intelligence in Animal Omics Sciences (AIAOS) lab in [Department of Animal Sciences](https://animal.ifas.ufl.edu/){:target="_blank"} at the [University of Florida](https://www.ufl.edu/){:target="_blank"}. Our primary research interest focuses on integrating high-dimensional heterogeneous -omics data to advance animal agriculture. One of our research topics is accommodating multi-omics data using machine learning, statistical modeling, and computational methods for genetic improvement in animals. Intrigued by precision livestock farming, we are also interested in applying computer vision to acquire high-throughput animal phenomics data (e.g., real-time activity) and using machine learning to incorporate the high-dimensional sensor data into our research. 
+Welcome to the Artificial Intelligence in Animal Omics Sciences (AIAOS) Lab in the [Department of Animal Sciences](https://animal.ifas.ufl.edu/){:target="_blank"} at the [University of Florida](https://www.ufl.edu/){:target="_blank"}.
+
+Our overall research focuses on using artificial intelligence and statistical modeling to integrate high-dimensional, heterogeneous omics data to advance animal agriculture. Our first research area focuses on developing artificial intelligence models and open-source software tools to capture and extract digital phenotypes of animals to support data-driven decisions that improve animal health, production, welfare, and other management practices in livestock farming systems. Our second research area centers on developing artificial intelligence and statistical models to integrate these digital phenotypes with genomic and other omics data to enhance the genetic improvement of animals.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
@@ -20,13 +22,13 @@ We are the Artificial Intelligence in Animal Omics Sciences (AIAOS) lab in [Depa
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/team2024.webp" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/team2024.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rfernando-visit.webp" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rfernando-visit.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-ans.webp" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-ans.jpeg" alt="Slide 3" />
         </div>
     </div>
     
@@ -39,6 +41,30 @@ We are the Artificial Intelligence in Animal Omics Sciences (AIAOS) lab in [Depa
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<section class="lab-highlights" aria-labelledby="lab-highlights-title" markdown="0">
+  <div class="lab-highlights-heading">
+    <h2 id="lab-highlights-title">Lab highlights</h2>
+  </div>
+  <div class="lab-highlights-timeline">
+    {% assign highlight_categories = "funding,milestone,award" | split: "," %}
+    {% for highlight_category in highlight_categories %}
+    {% assign category_items = site.data.news | where: "category", highlight_category %}
+    {% assign item = category_items | first %}
+    <article class="lab-highlight-item lab-highlight-item--{{ item.category }}">
+      <div class="lab-highlight-marker" aria-hidden="true"></div>
+      <div class="lab-highlight-content">
+        <div class="lab-highlight-meta">
+          <span class="news-badge news-badge--{{ item.category }}">{{ item.category }}</span>
+          <span class="lab-highlight-date">{{ item.date }}</span>
+        </div>
+        <h3><a href="{{ item.highlight_url | default: '/news.html' }}"{% if item.highlight_url contains 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{% if item.highlight_title %}{{ item.highlight_title }}{% else %}{{ item.category | capitalize }} update{% endif %}</a></h3>
+        <p>{{ item.highlight_text | default: item.summary }}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
 
 <!--
 We are grateful for funding from the [Institute of Food and Agricultural Sciences (IFAS)](https://ifas.ufl.edu/), [Department of Animal Sciences](https://animal.ifas.ufl.edu/) at the [University of Florida](https://www.ufl.edu/).

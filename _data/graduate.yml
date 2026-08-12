@@ -3,9 +3,12 @@
   info: Ph.D. Student (August 2024 – present)
   email:
   interest: Precision Livestock Farming; Deep Learning; Computer Vision
-  number_educ: 2
-  education1: 1st Place, PhD Production Division, Purina Poster Competition, ADSA 2026 
-  education2: UF Department of Animal Sciences PhD Partial Assistantship in Dairy Science
+  number_educ: 0
+  awards:
+    - icon: trophy
+      text: 1st Place, PhD Production Division, Purina Poster Competition, ADSA 2026
+    - icon: graduation-cap
+      text: ANS Dairy Endowment Partial Scholarship, 2024–2026
   education3:
   education4:
   education5:
@@ -19,11 +22,16 @@
 
 - name: Yuxi Zhang
   photo: YZ.webp
-  info: M.S. Student (August 2024 – present)
+  info: Ph.D. Student (August 2026 – present)
   email:
-  interest: Quantitative Genetics 
+  interest: Quantitative Genetics; Animal Breeding and Genetics
   number_educ: 0
-  education1: UF Department of Animal Sciences PhD Partial Assistantship in Dairy Science
+  awards:
+    - icon: graduation-cap
+      text: Grinter Fellowship, University of Florida Graduate School, 2026
+    - icon: graduation-cap
+      text: ANS Dairy Endowment Scholarship, 2026–2030
+  education1:
   education2:
   education3:
   education4:

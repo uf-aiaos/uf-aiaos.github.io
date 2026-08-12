@@ -86,7 +86,14 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 
 ## Lab Members
 
-- <span style="color:blue"> **We are looking for PhD students and Postdocs to join our team! See details in the <a href="../openings">Openings</a> section.** </span>
+<aside class="recruitment-callout" aria-label="Lab recruitment" markdown="0">
+<div class="recruitment-callout-icon" aria-hidden="true"><i class="fa fa-users"></i></div>
+<div class="recruitment-callout-copy">
+<h3>Interested in joining the AIAOS Lab?</h3>
+<p>Prospective PhD students and postdoctoral scholars interested in our research are welcome to contact us about potential opportunities.</p>
+</div>
+<a class="recruitment-callout-link" href="../openings">View current openings <span aria-hidden="true">&rarr;</span></a>
+</aside>
 
 ## Postdoctoral scholar
 
@@ -177,39 +184,17 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
   <i>{{ member.info }} <br> </i>
   <i> <b> Research Interests: </b> {{ member.interest }} </i>
       
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
+{% if member.awards %}
+<div class="member-honors">
+<span class="member-honors-title">Honors &amp; support</span>
+{% for award in member.awards %}
+<div class="member-honor">
+<i class="fa fa-{{ award.icon }}" aria-hidden="true"></i>
+<span>{{ award.text }}</span>
+</div>
+{% endfor %}
+</div>
+{% endif %}
   <!-- KEY NOTES: THE FIRST ACADEMIC ICON MUST BE FILLED, OTHERWISE IT WILL CAUSE TROUBLE-->
   <div class="social-links"> 
   {% if member.website != 0 %} <a href="{{ member.website }}" target="_blank"> <i class="fa fa-link"></i></a> {% endif %} {% if member.github != 0 %} <a href="{{ member.github }}" target="_blank"> <i class="fa fa-github"></i></a> {% endif %} {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}" target="_blank"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.scholar != 0 %} <a href="{{ member.scholar }}" target="_blank"> <i class="ai ai-google-scholar ai-lg"></i></a> {% endif %} {% if member.twitter != 0 %} <a href="{{ member.twitter }}" target="_blank"> <i class="fa fa-twitter"></i></a> {% endif %} {% if member.publons != 0 %} <a href="{{ member.publons }}" target="_blank"> <i class="ai ai-publons ai-lg"></i></a> {% endif %} {% if member.orcid != 0 %} <a href="{{ member.orcid }}" target="_blank"> <i class="ai ai-orcid ai-lg"></i></a> {% endif %} 

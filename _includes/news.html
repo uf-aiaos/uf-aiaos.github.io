@@ -1,15 +1,18 @@
 
 <div class="well">
   <h3><b>News</b></h3>
+  <p class="news-summary">Showing 5 recent updates from {{ site.data.news | size }} news items.</p>
 
-{% for article in site.data.news limit:10 %}
+{% for article in site.data.news limit:5 %}
 
 {% if article.headline == "YEAR" %}
   <h4 style="text-align:center">{{ article.date }}</h4>
 {% else %}
-  {{ article.date }}<br>
-  <div style="margin-left: 6px">
-  <em>{{ article.headline }}</em><br style="line-height: 15px" /></div>
+  <article class="news-entry">
+    <div class="news-entry-date">{{ article.date }}</div>
+    <span class="news-badge news-badge--{{ article.category }}">{{ article.category }}</span>
+    <div class="news-entry-headline">{{ article.summary | default: article.headline }}</div>
+  </article>
 {% endif %}
 
 <!-- {{ article.date }}
@@ -18,10 +21,27 @@
     
 {% endfor %}
 
+<div id="older-home-news" class="collapse">
+{% for article in site.data.news offset:5 limit:5 %}
+  {% if article.headline == "YEAR" %}
+    <h4 style="text-align:center">{{ article.date }}</h4>
+  {% else %}
+    <article class="news-entry">
+      <div class="news-entry-date">{{ article.date }}</div>
+      <span class="news-badge news-badge--{{ article.category }}">{{ article.category }}</span>
+      <div class="news-entry-headline">{{ article.summary | default: article.headline }}</div>
+    </article>
+  {% endif %}
+{% endfor %}
+</div>
 
+<button class="btn btn-default btn-sm news-toggle collapsed" type="button"
+        data-toggle="collapse" data-target="#older-home-news"
+        aria-expanded="false" aria-controls="older-home-news">
+  <span class="show-label">Show 5 more news</span>
+  <span class="hide-label">Hide older news</span>
+</button>
 
-
-
-<h4><a href="{{ site.url }}{{ site.baseurl }}/news.html">... see all News</a></h4>
+<h4 class="news-archive-link"><a href="{{ site.url }}{{ site.baseurl }}/news.html">View all news &rarr;</a></h4>
 
     </div>

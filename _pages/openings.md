@@ -6,28 +6,38 @@ sitemap: false
 permalink: /openings/
 ---
 
-<figure>
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-tower-2.webp" width="80%" height="30%"></center>
+<figure class="openings-hero" markdown="0">
+<img src="{{ site.url }}{{ site.baseurl }}/images/openings/aiaos-lab-collage.webp"
+     alt="AIAOS Lab members conducting dairy research, presenting their work, and celebrating student achievements"
+     width="1944" height="914">
 </figure>
 
-<center><b><font size="6">We are looking for Ph.D. students and Postdocs to join our team!</font></b></center>
+<div class="openings-content" markdown="1">
 
-### How to apply
-Interested candidates may email Dr. Haipeng Yu (<haipengyu@ufl.edu>) with the subject line **"PhD/Postdoc Application"** and attach the following materials: 
+## Prospective students and postdoctoral scholars
+
+Prospective PhD students and postdoctoral scholars interested in the AIAOS Lab's research are encouraged to reach out about potential opportunities.
+
+We welcome candidates with interests or experience in one or more of the following areas: **animal breeding and genetics, precision livestock farming, statistical modeling, machine learning, computer vision, and scientific programming** using languages such as Python, R, Julia, C/C++, or Java.
+
+### How to reach out
+
+Please email Dr. Haipeng Yu at [haipengyu@ufl.edu](mailto:haipengyu@ufl.edu) with the subject line **“Prospective PhD Student”** or **“Prospective Postdoctoral Scholar.”** To help us understand your background and research interests, please include:
+
 1. _Curriculum vitae_
-2. _A copy of transcripts_
-3. _A brief statement of research interest and experiences_
- 
-**Candidates with skills/experiences in statistical modeling, machine learning, computer vision, and computer programming (C/C++, Java, Julia, Python, or R) are encouraged to apply.**
+2. _Unofficial transcripts, if applicable_
+3. _A brief statement describing your research interests, relevant experience, and reasons for your interest in the AIAOS Lab_
 
 ### Current open positions
 
+<div class="openings-status" markdown="0">
+<i class="fa fa-info-circle" aria-hidden="true"></i>
+<span>Specific funded openings will be posted here when available.</span>
+</div>
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/logo/Openings_AIAOS-Lab.webp" width="60%" height="60%"></center>
+</div>
 
 <!--[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf) -->
-
-
 
 
 

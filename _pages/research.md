@@ -8,7 +8,25 @@ permalink: /research/
 
 # Research
 
-#### **1. Integration of -omics data for genetic improvement using statistical modeling and machine learning**
+#### **1. AI-derived digital phenotypes for precision livestock farming**
+
+- Tang Z, Wang J, De Castro A, Zhang Y, Primo VB, Montevecchio Bernardino AB, Morota G, Wang X, Chebel RC, and **Yu H**. (2026). [Can 3D point cloud data improve automated body condition score prediction in dairy cattle?](https://doi.org/10.48550/arXiv.2601.22522){:target="_blank"} _arXiv_. doi: 10.48550/arXiv.2601.22522.
+
+- Wang J, De Castro A, Zhang Y, Basolli Borsatto L, Guo Y, Primo VB, Montevecchio Bernardino AB, Morota G, Chebel RC, and **Yu H**. (2026). [Evaluating transfer learning strategies for improving dairy cattle body weight prediction in small farms using depth-image and point-cloud data.](https://arxiv.org/abs/2601.01044){:target="_blank"} _arXiv_. doi: 10.48550/arXiv.2601.01044.
+
+- Niño de Guzmán C, Pinedo P, **Yu H**, Bliznyuk N, and De Vries A. (2026). [Estimation of probability of pregnancy based on health status and estrus intensity in organic dairy cows.](https://doi.org/10.3390/dairy7040058){:target="_blank"} _Dairy_. doi: 10.3390/dairy7040058.
+
+- Wang J, Yu Z, Chebel RC, and **Yu H**. (2025). [Impact of cross-validation designs on cattle behavior prediction using machine learning and deep learning models with tri-axial accelerometer data.](https://doi.org/10.1016/j.atech.2025.101483){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2025.101483.
+
+- Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. 6:100352. doi: 10.1016/j.atech.2023.100352.
+
+#### **2. Integration of digital phenotypes and omics data for genetic improvement**
+
+- Anas M, Zhao B, **Yu H**, Dahlen C, Swanson KC, Ringwall KA, and Hanna LLH. (2026). [Genome-wide association study of reproductive, body size, and carcass-related latent and directly measured traits in admixed beef heifers.](https://doi.org/10.3389/fgene.2026.1653878){:target="_blank"} _Frontiers in Genetics_. doi: 10.3389/fgene.2026.1653878.
+
+- Bi Y, Huang Y, **Yu H**, and Morota G. (2026). [Impact of trait measurement error on quantitative genetic analysis of computer vision derived traits.](https://doi.org/10.3390/genes17050506){:target="_blank"} _Genes_. doi: 10.3390/genes17050506.
+
+- Watson MT, Feldmann M, **Yu H**, and Cheng H. (2025). [End-to-end genomic prediction: Direct prediction of images and text from genome-wide molecular markers.](https://doi.org/10.1101/2025.11.03.686395){:target="_blank"} _bioRxiv_. doi: 10.1101/2025.11.03.686395.
 
 - Anas M, Zhao B, **Yu H**, Dahlen C, Swanson KC, Ringwall KA, Hulsman Hanna LL. (2025). [Multi-Trait Phenotypic Modeling Through Factor Analysis and Bayesian Network Learning to Develop Latent Reproductive, Body Conformational, and Carcass-Associated Traits in Admixed Beef Heifers.](https://doi.org/10.3389/fgene.2025.1551967){:target="_blank"} _Frontiers in Genetics_. doi: 10.3389/fgene.2025.1551967.
 
@@ -28,19 +46,6 @@ permalink: /research/
 
 - **Yu H**, Campbell MT, Zhang Q, Walia H, and Morota G. (2019). [Genomic Bayesian confirmatory factor analysis and Bayesian network to characterize a wide spectrum of rice phenotypes.](https://doi.org/10.1534/g3.119.400154){:target="_blank"} _G3: Genes, Genomes, Genetics._ 9:1975-1986. doi: 10.1534/g3.119.400154
 
-#### **2. AI-assisted precision livestock farming**
-- Wang J, Yu Z, Chebel RC, and **Yu H**. (2025). [Impact of cross-validation designs on cattle behavior prediction using machine learning and deep learning models with tri-axial accelerometer data.](https://doi.org/10.1016/j.atech.2025.101483){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2025.101483.
-
-- Chebel RC, Mirzaei A, **Yu H**, Lopes G Jr, and Bisinotto RS. (2025). [Early postpartum estrous characteristics: Unveiling their predictive potential for fertility in dairy cows.](https://doi.org/10.3168/jds.2025-27175){:target="_blank"} _Journal of Dairy Science_. doi: 10.3168/jds.2025-27175.
-
-- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN. (2025). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-024-00366-9){:target="_blank"} _Animal Microbiome._ doi: 10.1186/s42523-024-00366-9
-
-- Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486
-
-- Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2023.100352
-
-- **Yu H**, Lee K, and Morota G. (2021). [Forecasting dynamic body weight of non-restrained pigs from images using an RGB-D sensor camera.](https://academic.oup.com/tas/advance-article/doi/10.1093/tas/txab006/6102880){:target="_blank"} _Translational Animal Science_. 5:1-9. doi: 10.1093/tas/txab006
-
 #### **3. Open-source software development for animal omics sciences**
 - De Castro A, Wang J, Bonney-King JG, Morota G, Miller-Cushon EK, and **Yu, H**. (2025) [AnimalMotionViz: an interactive software tool for tracking and visualizing animal motion patterns using computer vision.](https://doi.org/10.3168/jdsc.2024-0706){:target="_blank"} _JDS Communications_. In press. doi: 10.3168/jdsc.2024-0706
 
@@ -49,4 +54,3 @@ permalink: /research/
 - Dekkers JCM, Su L, Kramer L, and **Yu H**. (2022). A tool for the design of breeding programs using genomics. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/45_006.pdf)
 
 - **Yu H** and Morota G. (2021). GCA: [An R package for genetic connectedness analysis using pedigree and genomic data.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07414-7){:target="_blank"} _BMC Genomics_. 22:119. doi: 10.1186/s12864-021-07414-7
-
