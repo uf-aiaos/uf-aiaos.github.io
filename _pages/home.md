@@ -22,13 +22,13 @@ Our overall research focuses on using artificial intelligence and statistical mo
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/team2024.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/team2024.webp" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rfernando-visit.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/labpics/rfernando-visit.webp" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-ans.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uf-ans.webp" alt="Slide 3" />
         </div>
     </div>
     
