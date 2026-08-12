@@ -365,35 +365,16 @@ firstp {
 }
 
 .recruitment-callout {
-  align-items: center;
-  background: linear-gradient(110deg, #fff7ed 0%, #fffaf3 100%);
-  border: 1px solid #f2d4b2;
-  border-left: 5px solid #e87500;
-  border-radius: 7px;
-  display: flex;
-  gap: 14px;
-  margin: 12px 0 28px;
-  padding: 16px 18px;
+  background: #f7fbfd;
+  border-left: 4px solid #69acc7;
+  margin: 12px 0 30px;
+  padding: 14px 18px;
 }
-
-.recruitment-callout-icon {
-  align-items: center;
-  background: #ffe4c2;
-  border-radius: 50%;
-  color: #a94f00;
-  display: flex;
-  flex: 0 0 42px;
-  font-size: 18px;
-  height: 42px;
-  justify-content: center;
-}
-
-.recruitment-callout-copy { flex: 1 1 auto; }
 
 .recruitment-callout-copy h3 {
-  color: #a94f00 !important;
+  color: #00529b !important;
   font-size: 18px !important;
-  margin: 0 0 3px !important;
+  margin: 0 0 5px !important;
 }
 
 .recruitment-callout-copy p {
@@ -404,20 +385,17 @@ firstp {
 }
 
 .recruitment-callout-link {
-  background: #00529b;
-  border-radius: 4px;
-  color: #fff !important;
-  flex: 0 0 auto;
+  color: #00529b !important;
+  display: inline-block;
   font-size: 13px;
   font-weight: 600;
-  padding: 9px 12px;
-  white-space: nowrap;
+  margin-top: 8px;
 }
 
 .recruitment-callout-link:hover,
 .recruitment-callout-link:focus {
-  background: #003f78;
-  text-decoration: none;
+  color: #003f78 !important;
+  text-decoration: underline;
 }
 
 .openings-hero {
@@ -438,12 +416,12 @@ firstp {
 
 .openings-content h2 {
   border-bottom: 2px solid #d9e7ef;
-  color: #4f91ad;
+  color: #00529b;
   padding-bottom: 8px;
 }
 
 .openings-content h3 {
-  color: #4f91ad;
+  color: #00529b;
   margin-top: 28px;
 }
 
@@ -470,8 +448,6 @@ firstp {
 
 @media (max-width: 767px) {
   .member-honors { margin-left: 0; }
-  .recruitment-callout { align-items: flex-start; flex-wrap: wrap; }
-  .recruitment-callout-link { margin-left: 56px; }
 }
 
 

@@ -1,7 +1,7 @@
 ---
-title: "AIAOS Lab - Openings"
+title: "Join Us | AIAOS Lab"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Join the AIAOS Lab"
 sitemap: false
 permalink: /openings/
 ---
@@ -14,15 +14,15 @@ permalink: /openings/
 
 <div class="openings-content" markdown="1">
 
-## Prospective students and postdoctoral scholars
+## Prospective graduate students and postdoctoral scholars
 
-Prospective PhD students and postdoctoral scholars interested in the AIAOS Lab's research are encouraged to reach out about potential opportunities.
+Prospective graduate students and postdoctoral scholars interested in the AIAOS Lab's research are encouraged to reach out about potential opportunities.
 
-We welcome candidates with interests or experience in one or more of the following areas: **animal breeding and genetics, precision livestock farming, statistical modeling, machine learning, computer vision, and scientific programming** using languages such as Python, R, Julia, C/C++, or Java.
+We welcome candidates with interests or experience in one or more of the following areas: **animal breeding and genetics, precision livestock farming, statistical modeling, machine learning, and computer vision**. Experience with programming languages such as Python, R, Julia, C/C++, or Java is also beneficial.
 
 ### How to reach out
 
-Please email Dr. Haipeng Yu at [haipengyu@ufl.edu](mailto:haipengyu@ufl.edu) with the subject line **“Prospective PhD Student”** or **“Prospective Postdoctoral Scholar.”** To help us understand your background and research interests, please include:
+Please email Dr. Haipeng Yu at [haipengyu@ufl.edu](mailto:haipengyu@ufl.edu) with the subject line **“Prospective Graduate Student”** or **“Prospective Postdoctoral Scholar.”** To help us understand your background and research interests, please include:
 
 1. _Curriculum vitae_
 2. _Unofficial transcripts, if applicable_
@@ -38,9 +38,6 @@ Please email Dr. Haipeng Yu at [haipengyu@ufl.edu](mailto:haipengyu@ufl.edu) wit
 </div>
 
 <!--[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf) -->
-
-
-
 
 
 

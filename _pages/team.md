@@ -87,12 +87,11 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 ## Lab Members
 
 <aside class="recruitment-callout" aria-label="Lab recruitment" markdown="0">
-<div class="recruitment-callout-icon" aria-hidden="true"><i class="fa fa-users"></i></div>
 <div class="recruitment-callout-copy">
 <h3>Interested in joining the AIAOS Lab?</h3>
-<p>Prospective PhD students and postdoctoral scholars interested in our research are welcome to contact us about potential opportunities.</p>
-</div>
+<p>Prospective graduate students and postdoctoral scholars interested in our research are welcome to contact us about potential opportunities.</p>
 <a class="recruitment-callout-link" href="../openings">View current openings <span aria-hidden="true">&rarr;</span></a>
+</div>
 </aside>
 
 ## Postdoctoral scholar
