@@ -1,8 +1,9 @@
 
 - date: <b>08/01/2026</b>
   category: funding
-  highlight_title: Supporting Southeast Dairy Farms
-  highlight_text: A regional heat-stress decision-support proposal received support from the Southeast Dairy Producer's Check-Off Program.
+  highlight: true
+  highlight_title: Heat-Stress Decision Support for Southeast Dairy Farms
+  highlight_text: The lab received support to deploy an AI-based decision-support platform across the Southeast to improve heat-stress management and labor efficiency on dairy farms.
   highlight_url: https://animal.ifas.ufl.edu/research-programs/milk-check-off/
   summary: >
     Our proposal to improve heat-stress management and labor efficiency on Southeast dairy farms
@@ -44,6 +45,7 @@
 
 - date: <b>07/01/2026</b>
   category: milestone
+  highlight: true
   highlight_title: Celebrating Our Trainees
   highlight_text: The lab celebrated its first PhD and Master's graduates alongside other recent trainee achievements.
   highlight_url: /labphotos/#celebration-2026-07-01
@@ -72,6 +74,7 @@
 
 - date: <b>06/24/2026</b>
   category: award
+  highlight: true
   highlight_title: First Place at ADSA 2026
   highlight_text: PhD student Angelo De Castro earned First Place in the Production Division PhD Poster Competition.
   highlight_url: /labphotos/#adsa-2026-06-24
@@ -92,6 +95,10 @@
 
 - date: <b>06/09/2026</b>
   category: funding
+  highlight: true
+  highlight_title: USDA-NIFA Grant to Reduce Antimicrobial Use in Dairy Cattle
+  highlight_text: The lab is contributing to a USDA-NIFA-funded project using automation and AI to support dairy cow health and reduce antimicrobial use.
+  highlight_url: https://www.linkedin.com/posts/haipeng-yu_very-pleased-to-contribute-to-the-development-ugcPost-7470148568796917761-XANt/
   summary: >
     The lab is contributing to a USDA NIFA-funded collaboration developing AI models that support
     dairy cow health and help reduce antibiotic use. PhD student Angelo De Castro is actively

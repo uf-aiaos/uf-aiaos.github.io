@@ -50,18 +50,24 @@ Our overall research focuses on using artificial intelligence and statistical mo
     {% assign highlight_categories = "funding,milestone,award" | split: "," %}
     {% for highlight_category in highlight_categories %}
     {% assign category_items = site.data.news | where: "category", highlight_category %}
-    {% assign item = category_items | first %}
-    <article class="lab-highlight-item lab-highlight-item--{{ item.category }}">
+    {% assign highlighted_category_items = category_items | where: "highlight", true %}
+    {% if highlighted_category_items.size > 0 %}
+    <article class="lab-highlight-item lab-highlight-item--{{ highlight_category }}">
       <div class="lab-highlight-marker" aria-hidden="true"></div>
       <div class="lab-highlight-content">
         <div class="lab-highlight-meta">
-          <span class="news-badge news-badge--{{ item.category }}">{{ item.category }}</span>
-          <span class="lab-highlight-date">{{ item.date }}</span>
+          <span class="news-badge news-badge--{{ highlight_category }}">{{ highlight_category }}</span>
         </div>
+        {% for item in highlighted_category_items %}
+        <div class="lab-highlight-entry">
+          <span class="lab-highlight-date">{{ item.date }}</span>
         <h3><a href="{{ item.highlight_url | default: '/news.html' }}"{% if item.highlight_url contains 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{% if item.highlight_title %}{{ item.highlight_title }}{% else %}{{ item.category | capitalize }} update{% endif %}</a></h3>
         <p>{{ item.highlight_text | default: item.summary }}</p>
+        </div>
+        {% endfor %}
       </div>
     </article>
+    {% endif %}
     {% endfor %}
   </div>
 </section>
