@@ -18,9 +18,13 @@ permalink: /research/
 
 - Wang J, Yu Z, Chebel RC, and **Yu H**. (2025). [Impact of cross-validation designs on cattle behavior prediction using machine learning and deep learning models with tri-axial accelerometer data.](https://doi.org/10.1016/j.atech.2025.101483){:target="_blank"} _Smart Agricultural Technology_. doi: 10.1016/j.atech.2025.101483.
 
+- Marin MU, Gingerich KN, Wang J, **Yu H**, and Miller-Cushon EK. (2024). [Effects of space allowance on patterns of activity in group-housed dairy calves.](https://doi.org/10.3168/jdsc.2023-0486){:target="_blank"} _JDS Communications_. doi: 10.3168/jdsc.2023-0486.
+
 - Bi Y, Campos LM, Wang J, **Yu H**, Hanigan MD, and Morota G. (2023). [Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms.](https://doi.org/10.1016/j.atech.2023.100352){:target="_blank"} _Smart Agricultural Technology_. 6:100352. doi: 10.1016/j.atech.2023.100352.
 
-#### **2. Integration of digital phenotypes and omics data for genetic improvement**
+- **Yu H**, Lee K, and Morota G. (2021). [Forecasting dynamic body weight of nonrestrained pigs from images using an RGB-D sensor camera.](https://doi.org/10.1093/tas/txab006){:target="_blank"} _Translational Animal Science_. 5:1–9. doi: 10.1093/tas/txab006.
+
+#### **2. Integration of omics data for genetic improvement using statistical modeling and machine learning**
 
 - Anas M, Zhao B, **Yu H**, Dahlen C, Swanson KC, Ringwall KA, and Hanna LLH. (2026). [Genome-wide association study of reproductive, body size, and carcass-related latent and directly measured traits in admixed beef heifers.](https://doi.org/10.3389/fgene.2026.1653878){:target="_blank"} _Frontiers in Genetics_. doi: 10.3389/fgene.2026.1653878.
 
@@ -30,13 +34,15 @@ permalink: /research/
 
 - Anas M, Zhao B, **Yu H**, Dahlen C, Swanson KC, Ringwall KA, Hulsman Hanna LL. (2025). [Multi-Trait Phenotypic Modeling Through Factor Analysis and Bayesian Network Learning to Develop Latent Reproductive, Body Conformational, and Carcass-Associated Traits in Admixed Beef Heifers.](https://doi.org/10.3389/fgene.2025.1551967){:target="_blank"} _Frontiers in Genetics_. doi: 10.3389/fgene.2025.1551967.
 
-- Yan H, Jin Y, **Yu H**, Wang C, Wu B, Jone CS, Wang X, Xie Z, and Huang L. (2024). [Genomic selection for agronomical phenotypes using genome-wide SNPs and SVs in pearl millet.](https://doi.org/10.1007/s00122-024-04754-2){:target="_blank"} _Theoretical and Applied Genetics._ doi: 10.1007/s00122-024-04754-2
+- Casaro S, Prim JG, Gonzalez TD, Cunha F, Silva ACM, **Yu H**, Bisinotto RS, Chebel RC, Santos JE, Nelson CD, Jeon SJ, Bicalho RC, Driver JP, and Galvão KN. (2025). [Multi-omics integration and immune profiling identify possible causal networks leading to uterine microbiome dysbiosis in dairy cows that develop metritis.](https://doi.org/10.1186/s42523-024-00366-9){:target="_blank"} _Animal Microbiome_. doi: 10.1186/s42523-024-00366-9.
 
 - **Yu H**, Fernando RL, and Dekkers JCM. (2024). [Use of the linear regression method to evaluate population accuracy of predictions from non-linear models.](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1380643){:target="_blank"} _Frontiers in Genetics._ doi: 10.3389/fgene.2024.1380643
 
 - **Yu, H**, van Milgen, J, Knol, E. F, Fernando, R. L, and Dekkers, J. C. (2022). A bayesian hierarchical model to integrate a mechanistic growth model in genomic prediction. In: _Proceedings, 12th World Congress of Genetics Applied to Livestock Production._ July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/13_013.pdf)
 
 - Ni Z, Fernando RL, **Yu H**, Knol EF, and Dekkers JCM. (2022). Genomic prediction of longitudinal body weights in pigs using a neural network. In: Proceedings, 12th World Congress of Genetics Applied to Livestock Production. July 3-8, Rotterdam, The Netherlands. [[PDF]](https://www.wageningenacademic.com/pb-assets/wagen/WCGALP2022/60_013.pdf)
+
+- de Novais FJ, **Yu H**, Cesar ASM, Momen M, Poleti MD, Petry B, Mourao GB, de Almeida Regitano LC, Morota G, and Coutinho LL. (2022). [Multi-omic data integration for the study of production, carcass, and meat quality traits in Nellore cattle.](https://doi.org/10.3389/fgene.2022.948240){:target="_blank"} _Frontiers in Genetics_. doi: 10.3389/fgene.2022.948240.
 
 - Pegolo S, **Yu H**, Morota G, Bisutti V, Rosa GJM, Bittante G, and Cecchinato A. (2021). [Structural equation modelling for unravelling the multivariate genomic architecture of milk proteins in dairy cattle.](https://doi.org/10.3168/jds.2020-18321){:target="_blank"} _Journal of Dairy Science_. doi: 10.3168/jds.2020-18321
 
