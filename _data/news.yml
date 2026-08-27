@@ -1,4 +1,41 @@
 
+- date: <b>08/26/2026</b>
+  category: milestone
+  highlight: true
+  highlight_title: Student Milestones
+  highlight_text: Yuxi (Fiona) Zhang began her PhD studies in quantitative genetics, and Angelo De Castro advanced to PhD candidacy.
+  highlight_url: /team/
+  summary: >
+    Two exciting student milestones: After completing her Master's degree in the lab,
+    <strong>Yuxi (Fiona) Zhang</strong> began her PhD studies with us, with research focused on
+    quantitative genetics. <strong>Angelo De Castro</strong> successfully passed his PhD qualifying
+    examination and is now a PhD candidate. Congratulations, Yuxi and Angelo!
+  headline: >
+    <b>After completing her Master's degree in the lab, Yuxi (Fiona) Zhang began her PhD
+    studies with us, with research focused on quantitative genetics. Angelo De Castro
+    successfully passed his PhD qualifying examination and is now a PhD candidate.
+    Congratulations, Yuxi and Angelo!</b>
+
+- date: <b>08/10/2026</b>
+  category: outreach
+  category_label: Impact & Outreach
+  highlight: true
+  highlight_title: Heat-Stress Monitoring Software Featured in Hoard's Dairyman
+  highlight_text: Three years of results show how pen-level monitoring and rapid response can help reduce heat stress and support more effective management on Southeast dairy farms.
+  highlight_url: https://hoards.com/article-38481-Closing-the-heat-stress-summer-gap-pen-by-pen.html
+  summary: >
+    Our cloud-based, pen-level heat-stress monitoring system was featured in
+    <em>Hoard's Dairyman</em>. Results from three summers on a large commercial dairy show how
+    monitoring and rapid response can help reduce heat stress and improve management on Southeast
+    dairy farms. <a href="https://hoards.com/article-38481-Closing-the-heat-stress-summer-gap-pen-by-pen.html"
+    target="_blank" rel="noopener noreferrer">Read the article.</a>
+  headline: >
+    <b>Our cloud-based, pen-level heat-stress monitoring system was featured in
+    <em>Hoard's Dairyman</em>. Results from three summers on a large commercial dairy show how
+    monitoring and rapid response can help reduce heat stress and improve management on Southeast
+    dairy farms. <a href="https://hoards.com/article-38481-Closing-the-heat-stress-summer-gap-pen-by-pen.html"
+    target="_blank" rel="noopener noreferrer">Read the article.</a></b>
+
 - date: <b>08/01/2026</b>
   category: funding
   highlight: true

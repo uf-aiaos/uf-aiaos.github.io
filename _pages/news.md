@@ -36,7 +36,7 @@ permalink: /news.html
 
 <article class="news-archive-item">
   <div class="news-archive-date">{{ article.date }}</div>
-  <span class="news-badge news-badge--{{ article.category }}">{{ article.category }}</span>
+  <span class="news-badge news-badge--{{ article.category }}">{{ article.category_label | default: article.category }}</span>
   <div class="news-archive-headline">{{ article.summary | default: article.headline }}</div>
 </article>
 

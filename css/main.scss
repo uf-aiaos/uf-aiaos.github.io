@@ -165,6 +165,11 @@ firstp {
   color: #526574;
 }
 
+.news-badge--outreach {
+  background: #f9e9ef;
+  color: #943f5c;
+}
+
 /* Collapsible photo archive */
 .photo-timeline {
   padding-left: 58px;
@@ -533,6 +538,7 @@ firstp {
 .lab-highlight-item--funding .lab-highlight-marker { background: #4f9b68; }
 .lab-highlight-item--award .lab-highlight-marker { background: #e58a2b; }
 .lab-highlight-item--milestone .lab-highlight-marker { background: #c5a22e; }
+.lab-highlight-item--outreach .lab-highlight-marker { background: #c25b7c; }
 
 .lab-highlight-meta { align-items: center; display: flex; gap: 9px; }
 .lab-highlight-meta .news-badge { margin: 0; }

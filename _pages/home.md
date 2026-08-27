@@ -47,7 +47,7 @@ Our overall research focuses on using artificial intelligence and statistical mo
     <h2 id="lab-highlights-title">Lab highlights</h2>
   </div>
   <div class="lab-highlights-timeline">
-    {% assign highlight_categories = "funding,milestone,award" | split: "," %}
+    {% assign highlight_categories = "funding,outreach,milestone,award" | split: "," %}
     {% for highlight_category in highlight_categories %}
     {% assign category_items = site.data.news | where: "category", highlight_category %}
     {% assign highlighted_category_items = category_items | where: "highlight", true %}
@@ -56,7 +56,8 @@ Our overall research focuses on using artificial intelligence and statistical mo
       <div class="lab-highlight-marker" aria-hidden="true"></div>
       <div class="lab-highlight-content">
         <div class="lab-highlight-meta">
-          <span class="news-badge news-badge--{{ highlight_category }}">{{ highlight_category }}</span>
+          {% assign category_first_item = highlighted_category_items | first %}
+          <span class="news-badge news-badge--{{ highlight_category }}">{{ category_first_item.category_label | default: highlight_category }}</span>
         </div>
         {% for item in highlighted_category_items %}
         <div class="lab-highlight-entry">
