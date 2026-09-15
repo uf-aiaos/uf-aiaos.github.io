@@ -12,7 +12,7 @@ permalink: /research/
 
 - Tang Z, Wang J, De Castro A, Zhang Y, Primo VB, Montevecchio Bernardino AB, Morota G, Wang X, Chebel RC, and **Yu H**. (2026). [Can 3D point cloud data improve automated body condition score prediction in dairy cattle?](https://doi.org/10.48550/arXiv.2601.22522){:target="_blank"} _arXiv_. doi: 10.48550/arXiv.2601.22522.
 
-- Wang J, De Castro A, Zhang Y, Basolli Borsatto L, Guo Y, Primo VB, Montevecchio Bernardino AB, Morota G, Chebel RC, and **Yu H**. (2026). [Evaluating transfer learning strategies for improving dairy cattle body weight prediction in small farms using depth-image and point-cloud data.](https://arxiv.org/abs/2601.01044){:target="_blank"} _arXiv_. doi: 10.48550/arXiv.2601.01044.
+- Wang J, De Castro A, Zhang Y, Basolli Borsatto L, Guo Y, Primo VB, Montevecchio Bernardino AB, Morota G, Chebel RC, and **Yu H**. (2026). [Evaluating transfer learning strategies for improving dairy cattle body weight prediction in small farms using depth-image and point-cloud data.](https://arxiv.org/abs/2601.01044){:target="_blank"} _Journal of Dairy Science_. In press. [Preprint](https://arxiv.org/abs/2601.01044){:target="_blank"}.
 
 - Niño de Guzmán C, Pinedo P, **Yu H**, Bliznyuk N, and De Vries A. (2026). [Estimation of probability of pregnancy based on health status and estrus intensity in organic dairy cows.](https://doi.org/10.3390/dairy7040058){:target="_blank"} _Dairy_. doi: 10.3390/dairy7040058.
 
