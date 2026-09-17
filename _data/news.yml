@@ -1,4 +1,14 @@
 
+- date: <b>09/17/2026</b>
+  category: welcome
+  summary: >
+    Welcome <a href="/team/#research-intern"><strong>Alexis Philip</strong></a>, a Master's student
+    in <a href="https://msais.eng.ufl.edu/" target="_blank" rel="noopener noreferrer">Artificial
+    Intelligence Systems</a> at UF, who joined the lab as a research intern!
+  headline: >
+    <b>Welcome Alexis Philip, a Master's student in Artificial Intelligence Systems at UF, who joined
+    the lab as a research intern!</b>
+
 - date: <b>09/15/2026</b>
   category: milestone
   highlight: true
