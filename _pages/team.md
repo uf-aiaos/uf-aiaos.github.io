@@ -288,7 +288,6 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 
 -->
 
-<!--
 ## Research Intern
 
 {% assign number_printed = 0 %}
@@ -360,9 +359,6 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 </div>
 {% endif %}
 <br> 
-
--->
-
 
 <!-- ## Support Squad-->
 
