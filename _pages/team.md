@@ -94,6 +94,7 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 </div>
 </aside>
 
+{% if site.data.postdoc.size > 0 %}
 ## Postdoctoral scholar
 
 {% assign number_printed = 0 %}
@@ -164,6 +165,8 @@ When adding new section (e.g., gradaute student), copy the interns.yml file and 
 </div>
 {% endif %}
 <br>
+
+{% endif %}
 
 ## Graduate Students
 {% assign number_printed = 0 %}
@@ -410,7 +413,7 @@ tr:nth-child(even) {
   <tbody>
     {% for alum in site.data.alumni %}
     <tr>
-      <td><img src="{{ site.baseurl }}/images/members/{{ alum.photo }}" alt="Headshot of {{ alum.name }}" class="img-responsive" style="width:50px; height:60px; object-fit: cover;"></td>
+      <td><img src="{{ site.baseurl }}/images/members/{{ alum.photo }}" alt="Headshot of {{ alum.name }}" class="img-responsive" style="width:80px; height:96px; object-fit: cover;"></td>
       <td>{{ alum.name }}</td>
       <td>{{ alum.degree }}</td>
       <td>{{ alum.lab_position }}</td>

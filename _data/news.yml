@@ -1,3 +1,18 @@
+- date: <b>09/28/2026</b>
+  category: publication
+  summary: >
+    Our paper led by <strong>Jin Wang</strong> is now online in the
+    <em>Journal of Dairy Science</em>! The study shows how transfer learning can improve
+    dairy cattle body-weight prediction on a small farm using depth images and point-cloud data.
+    Congratulations, Jin!
+    <a href="https://www.journalofdairyscience.org/article/S0022-0302(26)03306-0/fulltext"
+    target="_blank" rel="noopener noreferrer">Read the paper.</a>
+  headline: >
+    Our paper led by <strong>Jin Wang</strong>,
+    <a href="https://www.journalofdairyscience.org/article/S0022-0302(26)03306-0/fulltext"
+    target="_blank" rel="noopener noreferrer">Evaluating transfer learning strategies for improving
+    dairy cattle body weight prediction in a small farm using depth-image and point-cloud data</a>,
+    is now online in the <em>Journal of Dairy Science</em>. Congratulations, Jin!
 
 - date: <b>09/17/2026</b>
   category: welcome
