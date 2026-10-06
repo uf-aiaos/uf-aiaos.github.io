@@ -16,6 +16,13 @@ permalink: /labphotos/
 </button>
 <div id="photos-2026" class="collapse in photo-year-content">
 
+#### Fiona and Angelo won Second Place in Gator Tank at the 2026 12th UF/IFAS Animal Sciences Symposium. October 5.
+{: #gator-tank-2026-10-05 }
+* Fiona and Angelo presenting their project and celebrating their Second Place award with Dr. Yu.
+<figure markdown="0">
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpics/gator-tank-2026.webp" loading="lazy" width="100%" alt="Fiona and Angelo presenting their dairy cattle phenotyping project, and celebrating their Second Place Gator Tank award with Dr. Yu">
+</figure>
+
 #### The lab attended the 13th World Congress on Genetics Applied to Livestock Production (WCGALP) in Madison, Wisconsin, July 12-17.
 {: #wcgalp-2026 }
 * Dr. Yu co-chaired the Genetic Gain and Inbreeding session.

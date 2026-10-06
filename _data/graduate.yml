@@ -6,6 +6,8 @@
   number_educ: 0
   awards:
     - icon: trophy
+      text: 2nd Place, Gator Tank Presentation Competition, 12th UF/IFAS Animal Sciences Symposium, 2026
+    - icon: trophy
       text: 1st Place, PhD Production Division, Purina Poster Competition, ADSA 2026
     - icon: graduation-cap
       text: ANS Dairy Endowment Partial Scholarship, 2024–2026
@@ -27,6 +29,8 @@
   interest: Quantitative Genetics; Animal Breeding and Genetics
   number_educ: 0
   awards:
+    - icon: trophy
+      text: 2nd Place, Gator Tank Presentation Competition, 12th UF/IFAS Animal Sciences Symposium, 2026
     - icon: graduation-cap
       text: Grinter Fellowship, University of Florida Graduate School, 2026
     - icon: graduation-cap
